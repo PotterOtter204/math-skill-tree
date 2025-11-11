@@ -1,10 +1,9 @@
-'use client'
+ 'use client'
 import React, { useState, useRef, useEffect } from 'react';
 import SkillNode from './SkillNode';
-import { initialSkills } from '../data/mathSkills';
 
 const SkillTree = () => {
-  const [skills, setSkills] = useState(initialSkills);
+  const [skills, setSkills] = useState([]);
   const [selectedSkill, setSelectedSkill] = useState(null);
   const [draggingSkill, setDraggingSkill] = useState(null);
   const [dragOffset, setDragOffset] = useState({ x: 0, y: 0 });
@@ -39,6 +38,23 @@ const SkillTree = () => {
       }
     });
   }, [skills]);
+
+  // Fetch skills from the API on mount
+  useEffect(() => {
+    let cancelled = false;
+    const load = async () => {
+      try {
+        const res = await fetch('/api/get-skills');
+        if (!res.ok) throw new Error('Failed to fetch skills');
+        const data = await res.json();
+        if (!cancelled) setSkills(data);
+      } catch (err) {
+        console.error('Error loading skills:', err);
+      }
+    };
+    load();
+    return () => { cancelled = true; };
+  }, []);
 
   const drawArrow = (ctx, fromSkill, toSkill) => {
     // Calculate centers of skill nodes
@@ -150,12 +166,16 @@ const SkillTree = () => {
           .filter(skill => skill.id !== selectedSkill)
           .map(skill => ({
             ...skill,
-            prerequisites: skill.prerequisites.filter(prereqId => prereqId !== selectedSkill)
+            prerequisites: (skill.prerequisites || []).filter(prereqId => prereqId !== selectedSkill)
           }));
       });
       setSelectedSkill(null);
     }
   };
+
+  // Convenience for showing selected skill name (handle different JSON shapes)
+  const selectedObj = skills.find(s => s.id === selectedSkill);
+  const selectedLabel = selectedObj ? (selectedObj.name || selectedObj.skill || selectedObj.id) : null;
 
   return (
     <div style={{ width: '100%', height: '100vh', display: 'flex', flexDirection: 'column' }}>
@@ -217,7 +237,7 @@ const SkillTree = () => {
         )}
         {selectedSkill && (
           <span style={{ color: '#4CAF50', fontWeight: 'bold' }}>
-            Selected: {skills.find(s => s.id === selectedSkill)?.name}
+            Selected: {selectedLabel}
           </span>
         )}
       </div>
@@ -268,7 +288,7 @@ const SkillTree = () => {
         fontSize: '12px'
       }}>
         <strong>Instructions:</strong> Click a skill to select it. Drag skills to move them.
-        Use "Connect to Parent" to link a child skill to its prerequisite.
+  Use the Connect to Parent button to link a child skill to its prerequisite.
         Arrows point from child skills to their parent prerequisites.
       </div>
     </div>

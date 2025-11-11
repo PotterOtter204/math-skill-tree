@@ -20,6 +20,9 @@ const SkillNode = ({ skill, isSelected, onClick, onDragStart, onDrag, onDragEnd,
     }
   };
 
+  const title = skill.name || skill.skill || skill.id;
+  const desc = skill.description || skill.outcome_code || '';
+
   return (
     <div
       className={`skill-node ${isSelected ? 'selected' : ''}`}
@@ -55,14 +58,14 @@ const SkillNode = ({ skill, isSelected, onClick, onDragStart, onDrag, onDragEnd,
         textAlign: 'center',
         color: isSelected ? '#fff' : '#333'
       }}>
-        {skill.name}
+        {title}
       </div>
       <div style={{
         fontSize: '11px',
         color: isSelected ? '#f0f0f0' : '#666',
         textAlign: 'center'
       }}>
-        {skill.description}
+        {desc}
       </div>
     </div>
   );

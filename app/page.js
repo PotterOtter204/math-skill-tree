@@ -1,15 +1,9 @@
 'use client'
 import * as React from 'react'
-import dynamic from 'next/dynamic'
+import SkillTree from './components/SkillTree'
 
-const Tldraw = dynamic(() => import('@tldraw/tldraw').then((mod) => mod.Tldraw), {
-  ssr: false,
-})
-
-export default function OldTldrawApp() {
+export default function MathSkillTreeApp() {
   return (
-    <div style={{ position: 'fixed', inset: 0 }} suppressHydrationWarning>
-      <Tldraw />
-    </div>
+    <SkillTree />
   )
 }

@@ -2,10 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 // Configuration
-const GRADE_SPACING = 2000; // Horizontal spacing between grades
-const OUTCOME_SPACING = 400; // Vertical spacing between outcomes
-const SKILL_SPACING = 180; // Spacing between skills within an outcome
-const SKILLS_PER_ROW = 5; // Max skills per row in an outcome cluster
+const GRADE_SPACING = 1500; // Horizontal spacing between grades
+const OUTCOME_SPACING = 250; // Vertical spacing between outcomes
+const SKILL_SPACING = 170; // Spacing between skills within an outcome
+const SKILLS_PER_ROW = 6; // Max skills per row in an outcome cluster
 
 // Read the skills JSON
 const skillsPath = path.join(__dirname, '../app/api/get-skills/skills.json');

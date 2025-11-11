@@ -1,0 +1,32 @@
+diff --git a/node_modules/react/cjs/react-jsx-dev-runtime.development.js b/node_modules/react/cjs/react-jsx-dev-runtime.development.js
+index 95f9877..ae03ef2 100644
+--- a/node_modules/react/cjs/react-jsx-dev-runtime.development.js
++++ b/node_modules/react/cjs/react-jsx-dev-runtime.development.js
+@@ -143,10 +143,7 @@
+     function elementRefGetterWithDeprecationWarning() {
+       var componentName = getComponentNameFromType(this.type);
+       didWarnAboutElementRef[componentName] ||
+-        ((didWarnAboutElementRef[componentName] = !0),
+-        console.error(
+-          "Accessing element.ref was removed in React 19. ref is now a regular prop. It will be removed from the JSX Element type in a future release."
+-        ));
++        (didWarnAboutElementRef[componentName] = !0);
+       componentName = this.props.ref;
+       return void 0 !== componentName ? componentName : null;
+     }
+diff --git a/node_modules/react/cjs/react.development.js b/node_modules/react/cjs/react.development.js
+index e7695c6..e6cbf7a 100644
+--- a/node_modules/react/cjs/react.development.js
++++ b/node_modules/react/cjs/react.development.js
+@@ -190,10 +190,7 @@
+     function elementRefGetterWithDeprecationWarning() {
+       var componentName = getComponentNameFromType(this.type);
+       didWarnAboutElementRef[componentName] ||
+-        ((didWarnAboutElementRef[componentName] = !0),
+-        console.error(
+-          "Accessing element.ref was removed in React 19. ref is now a regular prop. It will be removed from the JSX Element type in a future release."
+-        ));
++        (didWarnAboutElementRef[componentName] = !0);
+       componentName = this.props.ref;
+       return void 0 !== componentName ? componentName : null;
+     }

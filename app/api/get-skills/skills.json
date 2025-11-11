@@ -11,7 +11,10 @@
     "outcome_code": "1.N.1",
     "id": "1.N.1.2",
     "x": 270,
-    "y": 100
+    "y": 100,
+    "prerequisites": [
+      "1.N.1.1"
+    ]
   },
   {
     "skill": "Record a numeral (0 to 100) symbolically when it is presented orally.",
@@ -32,14 +35,20 @@
     "outcome_code": "1.N.1",
     "id": "1.N.1.5",
     "x": 780,
-    "y": 100
+    "y": 100,
+    "prerequisites": [
+      "1.N.1.1"
+    ]
   },
   {
     "skill": "Skip-count by 5s to 100 starting at 0.",
     "outcome_code": "1.N.1",
     "id": "1.N.1.6",
     "x": 950,
-    "y": 100
+    "y": 100,
+    "prerequisites": [
+      "1.N.1.1"
+    ]
   },
   {
     "skill": "Skip-count by 10s to 100 starting at 0.",
@@ -333,7 +342,10 @@
     "outcome_code": "1.N.9",
     "id": "1.N.9.1",
     "x": 100,
-    "y": 5240
+    "y": 5240,
+    "prerequisites": [
+      "1.N.4.1"
+    ]
   },
   {
     "skill": "Indicate if the scenario in a story problem represents additive or subtractive action.",
@@ -1523,7 +1535,10 @@
     "outcome_code": "3.N.5",
     "id": "3.N.5.1",
     "x": 3100,
-    "y": 5250
+    "y": 5250,
+    "prerequisites": [
+      "2.N.7.1"
+    ]
   },
   {
     "skill": "Record a number in more than one way using proportional and non-proportional concrete materials.",
@@ -1789,7 +1804,10 @@
     "outcome_code": "3.N.11",
     "id": "3.N.11.1",
     "x": 3100,
-    "y": 690
+    "y": 690,
+    "prerequisites": [
+      "2.N.9.1"
+    ]
   },
   {
     "skill": "Represent a story problem (orally, shared reading, written) using manipulatives or diagrams, and record in a number sentence.",

@@ -13,6 +13,7 @@ const EnhancedKonvaWrapper = () => {
   const [stagePosition, setStagePosition] = useState({ x: 0, y: 0 });
   const [selectedNodeId, setSelectedNodeId] = useState(null);
   const [connectingFrom, setConnectingFrom] = useState(null);
+  const [isDraggingNode, setIsDraggingNode] = useState(false);
   const stageRef = useRef(null);
 
   // Zoom configuration
@@ -80,7 +81,12 @@ const EnhancedKonvaWrapper = () => {
     ));
   };
 
+  const handleNodeDragStart = () => {
+    setIsDraggingNode(true);
+  };
+
   const handleNodeDragEnd = (nodeId, newX, newY) => {
+    setIsDraggingNode(false);
     setNodes(nodes.map(node =>
       node.id === nodeId
         ? { ...node, x: newX, y: newY }
@@ -309,7 +315,7 @@ const EnhancedKonvaWrapper = () => {
         x={stagePosition.x}
         y={stagePosition.y}
         onWheel={handleWheel}
-        draggable
+        draggable={!isDraggingNode}
         onDragEnd={handleDragEnd}
       >
         <Layer>
@@ -364,6 +370,7 @@ const EnhancedKonvaWrapper = () => {
               draggable={node.draggable}
               onNodeClick={handleNodeClick}
               onNodeHover={handleNodeHover}
+              onNodeDragStart={handleNodeDragStart}
               onNodeDragEnd={handleNodeDragEnd}
             />
           ))}

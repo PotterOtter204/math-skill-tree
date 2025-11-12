@@ -58,6 +58,39 @@ Reusable custom JSX component for creating interactive nodes.
 
 ## Implementation Details
 
+### Drag Conflict Prevention
+
+When both the Stage and nodes are draggable, there can be a conflict where dragging a node also drags the stage. This is solved by:
+
+1. Adding state to track when a node is being dragged: `isDraggingNode`
+2. Disabling Stage dragging when a node is being dragged: `draggable={!isDraggingNode}`
+3. Setting the flag in `handleNodeDragStart` and clearing it in `handleNodeDragEnd`
+
+```javascript
+const [isDraggingNode, setIsDraggingNode] = useState(false);
+
+const handleNodeDragStart = () => {
+  setIsDraggingNode(true);
+};
+
+const handleNodeDragEnd = (nodeId, newX, newY) => {
+  setIsDraggingNode(false);
+  setNodes(nodes.map(node =>
+    node.id === nodeId ? { ...node, x: newX, y: newY } : node
+  ));
+};
+
+<Stage draggable={!isDraggingNode} ... />
+```
+
+### Arrow Updates
+
+Arrows automatically update when connected nodes are dragged because:
+- Arrows are rendered based on node positions from state
+- When a node is dragged, its position in state is updated
+- React re-renders the arrows with the new positions
+- Only the dragged node moves; connected nodes stay in place
+
 ### Zoom Implementation
 
 The zoom functionality uses the following approach:

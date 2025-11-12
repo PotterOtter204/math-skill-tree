@@ -1,9 +1,18 @@
-'use client'
-import * as React from 'react'
-import SkillTree from './components/SkillTree'
+'use client';
+import dynamic from "next/dynamic";
 
-export default function MathSkillTreeApp() {
+// Since client components get prerenderd on server as well hence importing
+// the excalidraw stuff dynamically with ssr false
+
+const ExcalidrawWrapper = dynamic(
+  async () => (await import("./components/excalidrawWrapper")).default,
+  {
+    ssr: false,
+  },
+);
+
+export default function Page() {
   return (
-    <SkillTree />
-  )
+    <ExcalidrawWrapper />
+  );
 }

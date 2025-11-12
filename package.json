@@ -10,11 +10,14 @@
     "postinstall": "patch-package"
   },
   "dependencies": {
+    "@excalidraw/excalidraw": "^0.18.0",
     "@tldraw/core": "^1.23.2",
     "@tldraw/tldraw": "^1.29.2",
+    "konva": "^10.0.8",
     "next": "16.0.1",
     "react": "19.2.0",
-    "react-dom": "19.2.0"
+    "react-dom": "19.2.0",
+    "react-konva": "^19.2.0"
   },
   "devDependencies": {
     "@tailwindcss/postcss": "^4",

@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { Stage, Layer, Rect, Arrow, Text } from 'react-konva';
 
-const App = () => {
+const KonvaWrapper = () => {
   const [shapes, setShapes] = useState([]);
 
   const getRandomPosition = () => ({
@@ -107,4 +107,4 @@ const App = () => {
   );
 };
 
-export default App;
+export default KonvaWrapper;

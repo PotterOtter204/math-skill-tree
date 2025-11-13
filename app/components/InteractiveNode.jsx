@@ -1,11 +1,11 @@
-import React from 'react';
+import React, { useEffect, useRef } from 'react';
 import { Group, Circle, Text, Rect, Star } from 'react-konva';
 
 /**
  * Custom interactive node component with various interactive features
  * Demonstrates how to create reusable JSX components for react-konva
  */
-const InteractiveNode = ({
+const InteractiveNodeComponent = ({
   id,
   x,
   y,
@@ -22,6 +22,20 @@ const InteractiveNode = ({
   onNodeDragStart,
   onNodeDragEnd,
 }) => {
+  const groupRef = useRef(null);
+
+  useEffect(() => {
+    const group = groupRef.current;
+    if (!group) {
+      return;
+    }
+
+    group.clearCache();
+    const ratio = typeof window !== 'undefined' ? Math.min(window.devicePixelRatio || 1, 2) : 1;
+    group.cache({ pixelRatio: ratio });
+    group.getLayer()?.batchDraw();
+  }, [color, text, hovered, selected, draggable, radius, type, clicks]);
+
   const handleClick = () => {
     if (onNodeClick) {
       onNodeClick(id);
@@ -48,7 +62,7 @@ const InteractiveNode = ({
 
   const handleDragEnd = (e) => {
     if (onNodeDragEnd) {
-      onNodeDragEnd(id, e.target.x(), e.target.y());
+      onNodeDragEnd(id, e.target.x(), e.target.y(), e);
     }
   };
 
@@ -58,6 +72,7 @@ const InteractiveNode = ({
 
   return (
     <Group
+      ref={groupRef}
       x={x}
       y={y}
       draggable={draggable}
@@ -74,6 +89,8 @@ const InteractiveNode = ({
           fill="rgba(0, 0, 0, 0.2)"
           offsetY={-3}
           blur={10}
+          perfectDrawEnabled={false}
+          listening={false}
         />
       )}
 
@@ -87,6 +104,7 @@ const InteractiveNode = ({
           shadowBlur={hovered ? 20 : 10}
           shadowColor="black"
           shadowOpacity={0.3}
+          perfectDrawEnabled={false}
         />
       )}
 
@@ -103,6 +121,7 @@ const InteractiveNode = ({
           shadowBlur={hovered ? 20 : 10}
           shadowColor="black"
           shadowOpacity={0.3}
+          perfectDrawEnabled={false}
         />
       )}
 
@@ -117,6 +136,7 @@ const InteractiveNode = ({
           shadowBlur={hovered ? 20 : 10}
           shadowColor="black"
           shadowOpacity={0.3}
+          perfectDrawEnabled={false}
         />
       )}
 
@@ -130,6 +150,7 @@ const InteractiveNode = ({
         fontStyle="bold"
         fill="white"
         align="center"
+        listening={false}
       />
 
       {/* Click counter */}
@@ -142,6 +163,7 @@ const InteractiveNode = ({
           fontSize={10}
           fill="white"
           align="center"
+          listening={false}
         />
       )}
 
@@ -151,6 +173,8 @@ const InteractiveNode = ({
           y={-radius * scale - 15}
           radius={5}
           fill="#FFD700"
+          perfectDrawEnabled={false}
+          listening={false}
         />
       )}
 
@@ -164,10 +188,11 @@ const InteractiveNode = ({
           fontSize={10}
           fill="#666"
           align="center"
+          listening={false}
         />
       )}
     </Group>
   );
 };
 
-export default InteractiveNode;
+export default React.memo(InteractiveNodeComponent);

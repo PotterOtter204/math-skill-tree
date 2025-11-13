@@ -1,211 +1,2739 @@
 {
-  "1.N.1": "Say the number sequence by",
-  "1.N.2": "Subitize and name familiar arrangements of 1 to 10 dots (or objects).",
-  "1.N.3": "Demonstrate an understanding of counting by",
-  "1.N.4": "Represent and describe numbers to 20, concretely, pictorially, and symbolically.",
-  "1.N.5": "Compare and order sets containing up to 20 elements to solve problems using",
-  "1.N.6": "Estimate quantities to 20 by using referents.",
-  "1.N.7": "Demonstrate, concretely and pictorially, how a number, up to 30, can be represented by a variety of equal groups with and without singles.",
-  "1.N.8": "Identify the number, up to 20, that is one more, two more, one less, and two less than a given number.",
-  "1.N.9": "Demonstrate an understanding of addition of numbers with answers to 20 and their corresponding subtraction facts, concretely, pictorially, and symbolically, by",
-  "1.N.10": "Describe and use mental mathematics strategies including",
-  "1.PR.1": "Demonstrate an understanding of repeating patterns (two to four elements) by",
-  "1.PR.2": "Translate repeating patterns from one representation to another.",
-  "1.PR.3": "Describe equality as a balance and inequality as an imbalance, concretely and pictorially (0 to 20).",
-  "1.PR.4": "Record equalities using the equal symbol (0 to 20).",
-  "1.SS.1": "Demonstrate an understanding of measurement as a process of comparing by",
-  "1.SS.2": "Sort 3-D objects and 2-D shapes using one attribute, and explain the sorting rule.",
-  "1.SS.3": "Replicate composite 2-D shapes and 3-D objects.",
-  "1.SS.4": "Compare 2-D shapes to parts of 3-D objects in the environment.",
-  "2.N.1.": "Say the number sequence from 0 to 100 by",
-  "2.N.2.": "Demonstrate if a number (up to 100) is even or odd.",
-  "2.N.3.": "Describe order or relative position using ordinal numbers.",
-  "2.N.4.": "Represent and describe numbers to 100, concretely, pictorially, and symbolically.",
-  "2.N.5.": "Compare and order numbers up to 100.",
-  "2.N.6.": "Estimate quantities to 100 using referents.",
-  "2.N.7.": "Illustrate, concretely and pictorially, the meaning of place value for numbers to 100.",
-  "2.N.8.": "Demonstrate and explain the effect of adding zero to or subtracting zero from any number.",
-  "2.N.9.": "Demonstrate an understanding of addition (limited to 1- and 2-digit numerals) with answers to 100 and the corresponding subtraction by",
-  "2.N.10.": "Apply mental mathematics strategies, including to develop recall of basic addition facts to 18 and related subtraction facts.",
-  "2.PR.1.": "Predict an element in a repeating pattern using a variety of strategies.",
-  "2.PR.2.": "Demonstrate an understanding of increasing patterns by patterns using manipulatives, diagrams, sounds, and actions (numbers to 100).",
-  "2.PR.3.": "Demonstrate and explain the meaning of equality and inequality by using manipulatives and diagrams (0 to 100).",
-  "2.PR.4.": "Record equalities and inequalities symbolically using the equal symbol or the not-equal symbol.",
-  "2.SS.1.": "Relate the number of days to a week and the number of months to a year in a problem-solving context.",
-  "2.SS.2.": "Relate the size of a unit of measure to the number of units (limited to non-standard units) used to measure length and mass (weight).",
-  "2.SS.3.": "Compare and order objects by length, height, distance around, and mass (weight) using non-standard units, and make statements of comparison.",
-  "2.SS.4.": "Measure length to the nearest non-standard unit by",
-  "2.SS.5.": "Demonstrate that changing the orientation of an object does not alter the measurements of its attributes.",
-  "2.SS.6.": "Sort 2-D shapes and 3-D objects using two attributes, and explain the sorting rule.",
-  "2.SS.7.": "Describe, compare, and construct 3-D objects, including",
-  "2.SS.8.": "Describe, compare, and construct 2-D shapes, including",
-  "2.SS.9.": "Identify 2-D shapes as parts of 3-D objects in the environment.",
-  "2.SP.1.": "Gather and record data about self and others to answer questions.",
-  "2.SP.2.": "Construct and interpret concrete graphs and pictographs to solve problems.",
-  "3.N.1.": "Say the number sequence between any two given numbers forward and backward",
-  "3.N.2.": "Represent and describe numbers to 1000, concretely, pictorially, and symbolically.",
-  "3.N.3.": "Compare and order numbers to 1000.",
-  "3.N.4.": "Estimate quantities less than 1000 using referents.",
-  "3.N.5.": "Illustrate, concretely and pictorially, the meaning of place value for numerals to 1000.",
-  "3.N.6.": "Describe and apply mental mathematics strategies for adding two 2-digit numerals, such as",
-  "3.N.7.": "Describe and apply mental mathematics strategies for subtracting two 2-digit numerals, such as",
-  "3.N.8.": "Apply estimation strategies to predict sums and differences of two 2-digit numerals in a problem-solving context.",
-  "3.N.9.": "Demonstrate an understanding of addition and subtraction of numbers with answers to 1000 (limited to 1-, 2-, and 3-digit numerals) by",
-  "3.N.10.": "Apply mental math strategies to determine addition facts and related subtraction facts to 18 (9 + 9).",
-  "3.N.11.": "Demonstrate an understanding of multiplication to 5 \u00d7 5 by",
-  "3.N.12.": "Demonstrate an understanding of division by",
-  "3.N.13.": "Demonstrate an understanding of fractions by",
-  "3.PR.1.": "Demonstrate an understanding of increasing patterns by",
-  "3.PR.2.": "Demonstrate an understanding of decreasing patterns by",
-  "3.PR.3.": "Solve one-step addition and subtraction equations involving symbols representing an unknown number.",
-  "3.SS.1.": "Relate the passage of time to common activities using non-standard and standard units (minutes, hours, days, weeks, months, years).",
-  "3.SS.2.": "Relate the number of seconds to a minute, the number of minutes to an hour, and the number of days to a month in a problem-solving context.",
-  "3.SS.3.": "Demonstrate an understanding of measuring length (cm, m) by",
-  "3.SS.4.": "Demonstrate an understanding of measuring mass (g, kg) by",
-  "3.SS.5.": "Demonstrate an understanding of perimeter of regular and irregular shapes by",
-  "3.SS.6.": "Describe 3-D objects according to the shape of the faces, and the number of edges and vertices.",
-  "3.SS.7.": "Sort regular and irregular polygons, including",
-  "3.SP.1.": "Collect first-hand data and organize it using",
-  "3.SP.2.": "Construct, label, and interpret bar graphs to solve problems.",
-  "4.N.1.": "Represent and describe whole numbers to 10 000, pictorially and symbolically.",
-  "4.N.2.": "Compare and order numbers to 10 000.",
-  "4.N.3.": "Demonstrate an understanding of addition of numbers with answers to 10 000 and their corresponding subtractions (limited to 3- and 4-digit numerals), concretely, pictorially, and symbolically, by",
-  "4.N.4.": "Explain the properties of 0 and 1 for multiplication and the property of 1 for division.",
-  "4.N.5.": "Describe and apply mental mathematics strategies, such as",
-  "4.N.6.": "Demonstrate an understanding of multiplication (2- or 3-digit numerals by 1-digit numerals) to solve problems by",
-  "4.N.7.": "Demonstrate an understanding of division (1-digit divisor and up to 2-digit dividend) to solve problems by",
-  "4.N.8.": "Demonstrate an understanding of fractions less than or equal to one by using concrete and pictorial representations to",
-  "4.N.9.": "Describe and represent decimals (tenths and hundredths), concretely, pictorially, and symbolically.",
-  "4.N.10.": "Relate decimals to fractions (to hundredths).",
-  "4.N.11.": "Demonstrate an understanding of addition and subtraction of decimals (limited to hundredths) by",
-  "4.PR.1.": "Identify and describe patterns found in tables and charts, including a multiplication chart.",
-  "4.PR.2.": "Reproduce a pattern shown in a table or chart using concrete materials.",
-  "4.PR.3.": "Represent and describe patterns and relationships using charts and tables to solve problems.",
-  "4.PR.4.": "Identify and explain mathematical relationships using charts and diagrams to solve problems.",
-  "4.PR.5.": "Express a problem as an equation in which a symbol is used to represent an unknown number.",
-  "4.PR.6.": "Solve one-step equations involving a symbol to represent an unknown number.",
-  "4.SS.1.": "Read and record time using digital and analog clocks, including 24-hour clocks.",
-  "4.SS.2.": "Read and record calendar dates in a variety of formats.",
-  "4.SS.3.": "Demonstrate an understanding of area of regular and irregular 2-D shapes by",
-  "4.SS.4.": "Solve problems involving 2-D shapes and 3-D objects.",
-  "4.SS.5.": "Describe and construct rectangular and triangular prisms.",
-  "4.SS.6.": "Demonstrate an understanding of line symmetry by",
-  "4.SP.1.": "Demonstrate an understanding of many-to-one correspondence.",
-  "4.SP.2.": "Construct and interpret pictographs and bar graphs involving many-to-one correspondence to draw conclusions.",
-  "5.N.1.": "Represent and describe whole numbers to 1 000 000.",
-  "5.N.2.": "Apply estimation strategies, including in problem-solving contexts.",
-  "5.N.3.": "Apply mental math strategies to determine multiplication and related division facts to 81 (9 x 9).",
-  "5.N.4.": "Apply mental mathematics strategies for multiplication, such as",
-  "5.N.5.": "Demonstrate an understanding of multiplication (1- and 2-digit multipliers and up to 4-digit multiplicands), concretely, pictorially, and symbolically, by to solve problems.",
-  "5.N.6.": "Demonstrate an understanding of division (1- and 2-digit divisors and up to 4-digit dividends), concretely, pictorially, and symbolically, and interpret remainders by to solve problems.",
-  "5.N.7.": "Demonstrate an understanding of fractions by using concrete and pictorial representations to",
-  "5.N.8.": "Describe and represent decimals (tenths, hundredths, thousandths) concretely, pictorially, and symbolically.",
-  "5.N.9.": "Relate decimals to fractions (tenths, hundredths, thousandths).",
-  "5.N.10.": "Compare and order decimals (tenths, hundredths, thousandths) by using",
-  "5.N.11.": "Demonstrate an understanding of addition and subtraction of decimals (to thousandths), concretely, pictorially, and symbolically, by",
-  "5.PR.1.": "Determine the pattern rule to make predictions about subsequent elements.",
-  "5.PR.2.": "Solve problems involving single-variable (expressed as symbols or letters), one-step equations with whole-number coefficients, and whole-number solutions.",
-  "5.SS.1.": "Design and construct different rectangles given either perimeter or area or both (whole numbers), and draw conclusions.",
-  "5.SS.2.": "Demonstrate an understanding of measuring length (mm) by",
-  "5.SS.3.": "Demonstrate an understanding of volume by",
-  "5.SS.4.": "Demonstrate an understanding of capacity by",
-  "5.SS.5.": "Describe and provide examples of edges and faces of 3-D objects, and sides of 2-D shapes, that are",
-  "5.SS.6.": "Identify and sort quadrilaterals, including according to their attributes.",
-  "5.SS.7.": "Perform a single transformation (translation, rotation, or reflection) of a 2-D shape, and draw and describe the image.",
-  "5.SS.8.": "Identify a single transformation (translation, rotation, or reflection) of 2-D shapes.",
-  "5.SP.1.": "Differentiate between first-hand and second-hand data.",
-  "5.SP.2.": "Construct and interpret double bar graphs to draw conclusions.",
-  "5.SP.3.": "Describe the likelihood of a single outcome occurring, using words such as",
-  "5.SP.4.": "Compare the likelihood of two possible outcomes occurring, using words such as",
-  "6.N.1.": "Demonstrate an understanding of place value for numbers",
-  "6.N.2.": "Solve problems involving large numbers, using technology.",
-  "6.N.3.": "Demonstrate an understanding of factors and multiples by",
-  "6.N.4.": "Relate improper fractions to mixed numbers.",
-  "6.N.5.": "Demonstrate an understanding of ratio, concretely, pictorially, and symbolically.",
-  "6.N.6.": "Demonstrate an understanding of percent (limited to whole numbers), concretely, pictorially, and symbolically.",
-  "6.N.7.": "Demonstrate an understanding of integers, concretely, pictorially, and symbolically.",
-  "6.N.8.": "Demonstrate an understanding of multiplication and division of decimals (involving 1-digit whole-number multipliers, 1-digit natural number divisors, and multipliers and divisors that are multiples of 10), concretely, pictorially, and symbolically, by",
-  "6.N.9.": "Explain and apply the order of operations, excluding exponents (limited to whole numbers).",
-  "6.PR.1.": "Demonstrate an understanding of the relationships within tables of values to solve problems.",
-  "6.PR.2.": "Represent and describe patterns and relationships using graphs and tables.",
-  "6.PR.3.": "Represent generalizations arising from number relationships using equations with letter variables.",
-  "6.PR.4.": "Demonstrate and explain the meaning of preservation of equality, concretely, pictorially, and symbolically.",
-  "6.SS.1.": "Demonstrate an understanding of angles by",
-  "6.SS.2.": "Demonstrate that the sum of interior angles is",
-  "6.SS.3.": "Develop and apply a formula for determining the",
-  "6.SS.4.": "Construct and compare triangles, including",
-  "6.SS.5.": "Describe and compare the sides and angles of regular and irregular polygons.",
-  "6.SS.6.": "Perform a combination of transformations (translations, rotations, or reflections) on a single 2-D shape, and draw and describe the image.",
-  "6.SS.7.": "Perform a combination of successive transformations of 2-D shapes to create a design, and identify and describe the transformations.",
-  "6.SS.8.": "Identify and plot points in the first quadrant of a Cartesian plane using whole-number ordered pairs.",
-  "6.SS.9.": "Perform and describe single transformations of a 2-D shape in the first quadrant of a Cartesian plane (limited to whole-number vertices).",
-  "6.SP.1.": "Create, label, and interpret line graphs to draw conclusions.",
-  "6.SP.2.": "Select, justify, and use appropriate methods of collecting data, including",
-  "6.SP.3.": "Graph collected data and analyze the graph to solve problems.",
-  "6.SP.4.": "Demonstrate an understanding of probability by",
-  "7.N.1": "Determine and explain why a number is divisible by 2, 3, 4, 5, 6, 8, 9, or 10, and why a number cannot be divided by 0.",
-  "7.N.2": "Demonstrate an understanding of the addition, subtraction, multiplication, and division of decimals to solve problems (for more than 1-digit divisors or 2-digit multipliers, technology could be used).",
-  "7.N.3": "Solve problems involving percents from 1% to 100%.",
-  "7.N.4": "Demonstrate an understanding of the relationship between repeating decimals and fractions, and terminating decimals and fractions.",
-  "7.N.5": "Demonstrate an understanding of adding and subtracting positive fractions and mixed numbers, with like and unlike denominators, concretely, pictorially, and symbolically (limited to positive sums and differences).",
-  "7.N.6": "Demonstrate an understanding of addition and subtraction of integers, concretely, pictorially, and symbolically.",
-  "7.N.7": "Compare and order fractions, decimals (to thousandths), and integers by using",
-  "7.PR.1": "Demonstrate an understanding of oral and written patterns and their corresponding relations.",
-  "7.PR.2": "Construct a table of values from a relation, graph the table of values, and analyze the graph to draw conclusions and solve problems.",
-  "7.PR.3": "Demonstrate an understanding of preservation of equality by",
-  "7.PR.4": "Explain the difference between an expression and an equation.",
-  "7.PR.5": "Evaluate an expression given the value of the variable(s).",
-  "7.PR.6": "Model and solve problems that can be represented by one-step linear equations of the form x + a = b, concretely, pictorially, and symbolically, where a and b are integers.",
-  "7.PR.7": "Model and solve problems that can be represented by linear equations of the form: concretely, pictorially, and symbolically, where a, b, and c, are whole numbers.",
-  "7.SS.1": "Demonstrate an understanding of circles by",
-  "7.SS.2": "Develop and apply a formula for determining the area of",
-  "7.SS.3": "Perform geometric constructions, including",
-  "7.SS.4": "Identify and plot points in the four quadrants of a Cartesian plane using ordered pairs.",
-  "7.SS.5": "Perform and describe transformations of a 2-D shape in all four quadrants of a Cartesian plane (limited to integral vertices).",
-  "7.SP.1": "Demonstrate an understanding of central tendency and range by",
-  "7.SP.2": "Determine the effect on the mean, median, and mode when an outlier is included in a data set.",
-  "7.SP.3": "Construct, label, and interpret circle graphs to solve problems.",
-  "7.SP.4": "Express probabilities as ratios, fractions, and percents.",
-  "7.SP.5": "Identify the sample space (where the combined sample space has 36 or fewer elements) for a probability experiment involving two independent events.",
-  "7.SP.6": "Conduct a probability experiment to compare the theoretical probability (determined using a tree diagram, table, or another graphic organizer) and experimental probability of two independent events.",
-  "8.N.1": "Demonstrate an understanding of perfect squares and square roots, concretely, pictorially, and symbolically (limited to whole numbers).",
-  "8.N.2": "Determine the approximate square root of numbers that are not perfect squares (limited to whole numbers).",
-  "8.N.3": "Demonstrate an understanding of percents greater than or equal to 0%.",
-  "8.N.4": "Demonstrate an understanding of ratio and rate.",
-  "8.N.5": "Solve problems that involve rates, ratios, and proportional reasoning.",
-  "8.N.6": "Demonstrate an understanding of multiplying and dividing positive fractions and mixed numbers, concretely, pictorially, and symbolically.",
-  "8.N.7": "Demonstrate an understanding of multiplication and division of integers, concretely, pictorially, and symbolically.",
-  "8.N.8": "Solve problems involving positive rational numbers.",
-  "8.PR.1": "Graph and analyze two-variable linear relations.",
-  "8.PR.2": "Model and solve problems using linear equations of the form: ax = b, b, a \u2260 0, ax + b = c, + b = c, a \u2260 0, a(x + b) = c concretely, pictorially, and symbolically, where a, b, and c, are integers.",
-  "8.SS.1": "Develop and apply the Pythagorean theorem to solve problems.",
-  "8.SS.2": "Draw and construct nets for 3-D objects.",
-  "8.SS.3": "Determine the surface area of right rectangular prisms, right triangular prisms, right cylinders to solve problems.",
-  "8.SS.4": "Develop and apply formulas for determining the volume of right prisms and right cylinders.",
-  "8.SS.5": "Draw and interpret top, front, and side views of 3-D objects composed of right rectangular prisms.",
-  "8.SS.6": "Demonstrate an understanding of tessellation.",
-  "8.SP.1": "Critique ways in which data are presented.",
-  "8.SP.2": "Solve problems involving the probability of independent events.",
-  "9.N.1.": "Demonstrate an understanding of powers with integral bases (excluding base 0) and whole-number exponents by",
-  "9.N.2.": "Demonstrate an understanding of operations on powers with integral bases (excluding base 0) and whole-number exponents.",
-  "9.N.3.": "Demonstrate an understanding of rational numbers by",
-  "9.N.4.": "Explain and apply the order of operations, including exponents, with and without technology.",
-  "9.N.5.": "Determine the square root of positive rational numbers that are perfect squares.",
-  "9.N.6.": "Determine an approximate square root of positive rational numbers that are non-perfect squares.",
-  "9.PR.1.": "Generalize a pattern arising from a problem-solving context using linear equations, and verify by substitution.",
-  "9.PR.2.": "Graph linear relations, analyze the graph, and interpolate or extrapolate to solve problems.",
-  "9.PR.3.": "Model and solve problems using linear equations of the form",
-  "9.PR.4.": "Explain and illustrate strategies to solve single variable linear inequalities with rational coefficients within a problem-solving context.",
-  "9.PR.5.": "Demonstrate an understanding of polynomials (limited to polynomials of degree less than or equal to 2).",
-  "9.PR.6.": "Model, record, and explain the operations of addition and subtraction of polynomial expressions, concretely, pictorially, and symbolically (limited to polynomials of degree less than or equal to 2).",
-  "9.PR.7.": "Model, record, and explain the operations of multiplication and division of polynomial expressions (limited to polynomials of degree less than or equal to 2) by monomials, concretely, pictorially, and symbolically.",
-  "9.SS.1.": "Solve problems and justify the solution strategy using circle properties, including",
-  "9.SS.2.": "Determine the surface area of composite 3-D objects to solve problems.",
-  "9.SS.3.": "Demonstrate an understanding of similarity of polygons.",
-  "9.SS.4.": "Draw and interpret scale diagrams of 2-D shapes.",
-  "9.SS.5.": "Demonstrate an understanding of line and rotation symmetry.",
-  "9.SP.1.": "Describe the effect of",
-  "9.SP.2.": "Select and defend the choice of using either a population or a sample of a population to answer a question.",
-  "9.SP.3.": "Develop and implement a project plan for the collection, display, and analysis of data by",
-  "9.SP.4.": "Demonstrate an understanding of the role of probability in society."
+  "1.N.1": {
+    "description": "Say the number sequence by",
+    "achievementIndicators": [
+      "Recite forward by 1s the number sequence between two given numbers (0 to 100).",
+      "Recite backward by 1s the number sequence between two given numbers.",
+      "Record a numeral (0 to 100) symbolically when it is presented orally.",
+      "Read a numeral (0 to 100) when it is presented symbolically.",
+      "Skip-count by 2s to 30 starting at 0.",
+      "Skip-count by 5s to 100 starting at 0.",
+      "Skip-count by 10s to 100 starting at 0.",
+      "Identify and correct errors and omissions in a number sequence."
+    ],
+    "expectations": [
+      "1s forward and backward between any two given numbers (0 to 100)",
+      "2s to 30, forward starting at 0",
+      "5s and 10s to 100, forward starting at 0"
+    ]
+  },
+  "1.N.2": {
+    "description": "Subitize and name familiar arrangements of 1 to 10 dots (or objects).",
+    "achievementIndicators": [
+      "Look briefly at a familiar dice arrangement of 1 to 6 dots, and identify the number represented without counting.",
+      "Look briefly at a familiar ten-frame arrangement of 1 to 10 dots (or objects), and identify the number represented without counting.",
+      "Look briefly at a finger arrangement, and identify how many fingers there are without counting.",
+      "Identify the number represented by an arrangement of dots (or objects) on a ten frame, and describe the number's relationship to 5 and to 10."
+    ],
+    "expectations": []
+  },
+  "1.N.3": {
+    "description": "Demonstrate an understanding of counting by",
+    "achievementIndicators": [
+      "Determine the total number of objects in a set, starting from a known quantity and counting on by 1s.",
+      "Count number of objects in a set using groups of 2s, 5s, or 10s.",
+      "Count the total number of objects in a set, starting from a known quantity and counting on by using groups of 2s, 5s, or 10s."
+    ],
+    "expectations": [
+      "using the counting-on strategy",
+      "using parts or equal groups to count sets"
+    ]
+  },
+  "1.N.4": {
+    "description": "Represent and describe numbers to 20, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Represent a number up to 20 using a variety of manipulatives, including ten frames and base-10 materials.",
+      "Read number words to 20.",
+      "Partition any quantity up to 20 into two parts, and identify the number of objects in each part.",
+      "Represent a number to 20 in two parts, concretely, pictorially, and symbolically.",
+      "Determine compatible number pairs for 5, 10, and 20.",
+      "Model a number using two different objects (e.g., 10 desks represents the same number as 10 pencils).",
+      "Place numerals on a horizontal or vertical number line with benchmarks 0, 5, 10, and 20."
+    ],
+    "expectations": []
+  },
+  "1.N.5": {
+    "description": "Compare and order sets containing up to 20 elements to solve problems using",
+    "achievementIndicators": [
+      "Build a set equal to another set that contains up to 20 elements.",
+      "Build a set that has more, fewer, or as many elements as another set.",
+      "Build several sets of different objects that have the same number of elements in the set.",
+      "Compare two sets using one-to-one correspondence, and describe them using comparative words such as \u201cmore,\u201d \u201cfewer,\u201d or \u201cas many.\"",
+      "Compare a set to a referent using comparative language.",
+      "Solve a story problem (pictures and words) that involves the comparison of two quantities."
+    ],
+    "expectations": [
+      "referents",
+      "one-to-one correspondence"
+    ]
+  },
+  "1.N.6": {
+    "description": "Estimate quantities to 20 by using referents.",
+    "achievementIndicators": [
+      "Estimate a quantity by comparing it to a referent (known quantity).",
+      "Select an estimate for a quantity by choosing between at least two possible choices, and explain the choice."
+    ],
+    "expectations": []
+  },
+  "1.N.7": {
+    "description": "Demonstrate, concretely and pictorially, how a number, up to 30, can be represented by a variety of equal groups with and without singles.",
+    "achievementIndicators": [
+      "Represent a number in a variety of equal groups with and without singles (e.g., 17 can be represented by 8 groups of 2 and one single, 5 groups of 3 and two singles, 4 groups of 4 and one single, 3 groups of 5 and two singles, and 1 group of 10 with seven singles).",
+      "Recognize that for a number of counters, no matter how they are grouped, the total number of counters does not change.",
+      "Group a set of counters into equal groups with and without singles in more than one way, and explain which grouping makes counting easier."
+    ],
+    "expectations": []
+  },
+  "1.N.8": {
+    "description": "Identify the number, up to 20, that is one more, two more, one less, and two less than a given number.",
+    "achievementIndicators": [
+      "Name the number that is one more, two more, one less, or two less than a given number, up to 20.",
+      "Represent a number on a ten frame that is one more, two more, one less, or two less than a given number."
+    ],
+    "expectations": []
+  },
+  "1.N.9": {
+    "description": "Demonstrate an understanding of addition of numbers with answers to 20 and their corresponding subtraction facts, concretely, pictorially, and symbolically, by",
+    "achievementIndicators": [
+      "Act out a story problem presented orally or through shared reading.",
+      "Indicate if the scenario in a story problem represents additive or subtractive action.",
+      "Represent the numbers and actions presented in a story problem by using manipulatives, and record them using sketches and/or number sentences.",
+      "Create a story problem for addition that connects to student experience, and simulate the action with counters.",
+      "Create a story problem for subtraction that connects to student experience, and simulate the action with counters.",
+      "Create a story problem for a number sentence.",
+      "Represent a story problem pictorially or symbolically to show the additive or subtractive action, and solve the problem."
+    ],
+    "expectations": [
+      "using familiar and mathematical language to describe additive and subtractive actions from their experience",
+      "creating and solving problems in context that involve addition and subtraction",
+      "modelling addition and subtraction using a variety of concrete and visual representations, and recording the process symbolically"
+    ]
+  },
+  "1.N.10": {
+    "description": "Describe and use mental mathematics strategies including",
+    "achievementIndicators": [
+      "Use and describe a mental mathematics strategy for determining a sum.",
+      "Use and describe a mental mathematics strategy for determining a difference.",
+      "Use and describe the related addition facts for a subtraction fact (fact family) (e.g., 6 \u2013 4 = 2 has two related addition facts: 4 + 2 = 6, 2 + 4 = 6).",
+      "Use and describe related subtraction facts for an addition fact (fact family) (e.g., 2 + 3 = 5 has two related subtraction facts: 5 - 3 = 2, 5 \u2013 2 = 3)."
+    ],
+    "expectations": [
+      "counting on, counting back",
+      "using one more, one less",
+      "making 10",
+      "starting from known doubles",
+      "using addition to subtract"
+    ]
+  },
+  "1.PR.1": {
+    "description": "Demonstrate an understanding of repeating patterns (two to four elements) by",
+    "achievementIndicators": [
+      "Describe a repeating pattern containing two to four elements in its core.",
+      "Identify errors in a repeating pattern.",
+      "Identify the missing element(s) in a repeating pattern.",
+      "Create and describe a repeating pattern using a variety of manipulatives, musical instruments, and actions.",
+      "Reproduce and extend a repeating pattern using manipulatives, diagrams, sounds, and actions.",
+      "Identify and describe, using everyday language, a repeating pattern in the environment (e.g., classroom, outdoors).",
+      "Identify repeating events (e.g., days of the week, birthdays, seasons)."
+    ],
+    "expectations": [
+      "describing",
+      "reproducing",
+      "extending",
+      "creating patterns using manipulatives, diagrams, sounds, and actions."
+    ]
+  },
+  "1.PR.2": {
+    "description": "Translate repeating patterns from one representation to another.",
+    "achievementIndicators": [
+      "Represent a repeating pattern using another mode (e.g., actions to sound, colour to shape, ABC ABC to blue yellow green blue yellow green).",
+      "Describe a repeating pattern using a letter code (e.g., ABC ABC...)."
+    ],
+    "expectations": []
+  },
+  "1.PR.3": {
+    "description": "Describe equality as a balance and inequality as an imbalance, concretely and pictorially (0 to 20).",
+    "achievementIndicators": [
+      "Construct two equal sets using the same objects (same shape and mass), and demonstrate their equality of number using a balance scale.",
+      "Construct two unequal sets using the same objects (same shape and mass), and demonstrate their inequality of number using a balance scale.",
+      "Determine if two concrete sets are equal or unequal, and explain the process used."
+    ],
+    "expectations": []
+  },
+  "1.PR.4": {
+    "description": "Record equalities using the equal symbol (0 to 20).",
+    "achievementIndicators": [
+      "Represent an equality using manipulatives or pictures.",
+      "Represent a pictorial or concrete equality in symbolic form.",
+      "Provide examples of equalities where the sum or difference is on either the left or right side of the equal symbol (=).",
+      "Record different representations of the same quantity (0 to 20) as equalities."
+    ],
+    "expectations": []
+  },
+  "1.SS.1": {
+    "description": "Demonstrate an understanding of measurement as a process of comparing by",
+    "achievementIndicators": [
+      "Identify common attributes, such as length (height), mass (weight), volume (capacity), and area, which could be used to compare a set of two objects.",
+      "Compare two objects and identify the attributes used to compare.",
+      "Determine which of two or more objects is longest/shortest by matching, and explain the reasoning.",
+      "Determine which of two or more objects is heaviest/lightest by comparing, and explain the reasoning.",
+      "Determine which of two or more objects holds the most/least by filling, and explain the reasoning.",
+      "Determine which of two or more objects has the greatest/least area by covering, and explain the reasoning."
+    ],
+    "expectations": [
+      "identifying attributes that can be compared",
+      "ordering objects",
+      "making statements of comparison",
+      "filling, covering, or matching"
+    ]
+  },
+  "1.SS.2": {
+    "description": "Sort 3-D objects and 2-D shapes using one attribute, and explain the sorting rule.",
+    "achievementIndicators": [
+      "Sort a set of familiar 3-D objects or 2-D shapes using a given sorting rule.",
+      "Sort a set of familiar 3-D objects using a single attribute determined by the student, and explain the sorting rule.",
+      "Sort a set of 2-D shapes using a single attribute determined by the student, and explain the sorting rule.",
+      "Determine the difference between two pre-sorted sets of familiar 3-D objects or 2-D shapes, and explain a possible sorting rule used to sort them."
+    ],
+    "expectations": []
+  },
+  "1.SS.3": {
+    "description": "Replicate composite 2-D shapes and 3-D objects.",
+    "achievementIndicators": [
+      "Select 2-D shapes from a given set of 2-D shapes to reproduce a composite 2-D shape.",
+      "Select 3-D objects from a given set of 3-D objects to reproduce a composite 3-D object.",
+      "Predict and select the 2-D shapes used to produce a composite 2-D shape, and verify by deconstructing the composite shape.",
+      "Predict and select the 3-D objects used to produce a composite 3-D object, and verify by deconstructing the composite object."
+    ],
+    "expectations": []
+  },
+  "1.SS.4": {
+    "description": "Compare 2-D shapes to parts of 3-D objects in the environment.",
+    "achievementIndicators": [
+      "Identify 3-D objects in the environment that have parts similar to a 2-D shape."
+    ],
+    "expectations": []
+  },
+  "2.N.1.": {
+    "description": "Say the number sequence from 0 to 100 by",
+    "achievementIndicators": [
+      "Extend a skip-counting sequence by 2s, 5s, or 10s forward and backward.",
+      "Skip-count by 10s, given any number from 1 to 9 as a starting point.",
+      "Count by 2s starting from 1 or from any odd number.",
+      "Identify and correct errors and omissions in a skip-counting sequence.",
+      "Count a sum of money with pennies, nickels, or dimes (to 100\u00a2).",
+      "Count quantity using groups of 2s, 5s, or 10s and counting on."
+    ],
+    "expectations": [
+      "2s, 5s, and 10s, forward and backward, using starting points that are multiples of 2, 5, and 10 respectively",
+      "10s using starting points from 1 to 9",
+      "2s starting from 1"
+    ]
+  },
+  "2.N.2.": {
+    "description": "Demonstrate if a number (up to 100) is even or odd.",
+    "achievementIndicators": [
+      "Determine if a number is even or odd by using concrete materials or pictorial representations.",
+      "Identify even and odd numbers in a sequence, such as in a hundred chart.",
+      "Sort a set of numbers into even and odd."
+    ],
+    "expectations": []
+  },
+  "2.N.3.": {
+    "description": "Describe order or relative position using ordinal numbers.",
+    "achievementIndicators": [
+      "Indicate the position of an object in a sequence by using ordinal numbers.",
+      "Compare the relative position of an object in two different sequences."
+    ],
+    "expectations": []
+  },
+  "2.N.4.": {
+    "description": "Represent and describe numbers to 100, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Represent a number using concrete materials, such as ten frames and base-10 materials.",
+      "Represent a number using coins (pennies, nickels, dimes, and quarters).",
+      "Represent a number using tallies.",
+      "Represent a number pictorially.",
+      "Represent a number using expressions (e.g., 24 + 6, 15 + 15, 40 \u2013 10).",
+      "Read a number (0\u2013100) in symbolic or word form.",
+      "Record a number (0-20) in words.",
+      "Determine compatible number pairs for 20 or 50."
+    ],
+    "expectations": []
+  },
+  "2.N.5.": {
+    "description": "Compare and order numbers up to 100.",
+    "achievementIndicators": [
+      "Order a set of numbers in ascending or descending order, and verify the result using a hundred chart, number line, ten frames, or by making reference to place value.",
+      "Identify errors in an ordered sequence.",
+      "Identify missing numbers in a hundred chart.",
+      "Identify errors in a hundred chart."
+    ],
+    "expectations": []
+  },
+  "2.N.6.": {
+    "description": "Estimate quantities to 100 using referents.",
+    "achievementIndicators": [
+      "Estimate a quantity by comparing it to a referent (known quantity).",
+      "Estimate the number of groups of 10 in a quantity using 10 as a referent.",
+      "Select between two possible estimates for a quantity, and explain the choice."
+    ],
+    "expectations": []
+  },
+  "2.N.7.": {
+    "description": "Illustrate, concretely and pictorially, the meaning of place value for numbers to 100.",
+    "achievementIndicators": [
+      "Explain and show with counters the meaning of each digit for a 2-digit numeral with both digits the same (e.g., for the numeral 22, the first digit represents two tens [twenty counters] and the second digit represents two ones [two counters]).",
+      "Count the number of objects in a set using groups of 10s and 1s, and record the result as a 2-digit numeral under the headings of 10s and 1s.",
+      "Describe a 2-digit numeral in at least two ways (e.g., 24 as two tens and four ones, twenty and four, two groups of ten and four left over, and twenty-four ones).",
+      "Illustrate using 10 frames and diagrams that a numeral consists of a certain number of groups of 10 and a certain number of 1s.",
+      "Illustrate using proportional base-10 materials that a numeral consists of a certain number of tens and a certain number of ones.",
+      "Explain why the value of a digit depends on its placement within a numeral."
+    ],
+    "expectations": []
+  },
+  "2.N.8.": {
+    "description": "Demonstrate and explain the effect of adding zero to or subtracting zero from any number.",
+    "achievementIndicators": [
+      "Add zero to a number and explain why the sum is the same as the addend.",
+      "Subtract zero from a number and explain why the difference is the same as the number."
+    ],
+    "expectations": []
+  },
+  "2.N.9.": {
+    "description": "Demonstrate an understanding of addition (limited to 1- and 2-digit numerals) with answers to 100 and the corresponding subtraction by",
+    "achievementIndicators": [
+      "Model addition and subtraction using concrete materials or visual representations, and record the process symbolically.",
+      "Create an addition or a subtraction number sentence and a story problem for a solution.",
+      "Solve a problem involving a missing addend, and describe the strategy used.",
+      "Solve a problem involving a missing minuend or subtrahend, and describe the strategy used.",
+      "Match a number sentence to a missing addend problem.",
+      "Match a number sentence to a missing subtrahend or minuend problem.",
+      "Add a set of numbers in two different ways, and explain that the sum is the same (e.g., 2 + 5 + 3 +8=2+3+5+8 or 5 + 3 + 8 + 2)."
+    ],
+    "expectations": [
+      "using personal strategies for adding and subtracting with and without the support of manipulatives",
+      "creating and solving problems that involve addition and subtraction",
+      "explaining that the order in which numbers are added does not affect the sum",
+      "explaining that the order in which numbers are subtracted may affect the difference"
+    ]
+  },
+  "2.N.10.": {
+    "description": "Apply mental mathematics strategies, including to develop recall of basic addition facts to 18 and related subtraction facts.",
+    "achievementIndicators": [
+      "Explain the mental mathematics strategy that could be used to determine an addition or subtraction fact, such as",
+      "using doubles (e.g., for 4 + 6, think 5 + 5)",
+      "using doubles plus one (e.g., for 4 + 5, think 4 + 4 + 1)",
+      "using doubles take away one (e.g., for 4 + 5, think 5 + 5 \u2013 1)",
+      "using doubles plus two (e.g., for 4 + 6, think 4 + 4 + 2)",
+      "using doubles take away two (e.g., for 4 + 6, think 6 + 6 \u2013 2)",
+      "making 10 (e.g., for 7 + 5, think 7 + 3 + 2)",
+      "building on a known double (e.g., 6 + 6 = 12, so 6 + 7 = 12 + 1 = 13)",
+      "using addition for subtraction (e.g., for 7 \u2013 3, think 3 + ? = 7)",
+      "Use and describe a personal strategy for determining a sum to 18 and the corresponding subtraction."
+    ],
+    "expectations": [
+      "using doubles",
+      "making 10",
+      "using one more, one less",
+      "using two more, two less",
+      "building on a known double",
+      "using addition for subtraction"
+    ]
+  },
+  "2.PR.1.": {
+    "description": "Predict an element in a repeating pattern using a variety of strategies.",
+    "achievementIndicators": [
+      "Identify the core of a repeating pattern.",
+      "Describe and extend a pattern with two attributes.",
+      "Explain the rule used to create a repeating non-numerical pattern.",
+      "Predict an element in a repeating pattern using a variety of strategies.",
+      "Predict an element of a repeating pattern, and extend the pattern to verify the prediction."
+    ],
+    "expectations": []
+  },
+  "2.PR.2.": {
+    "description": "Demonstrate an understanding of increasing patterns by patterns using manipulatives, diagrams, sounds, and actions (numbers to 100).",
+    "achievementIndicators": [
+      "Identify and describe increasing patterns in a variety of contexts (e.g., hundred chart, number line, addition tables, calendar, a tiling pattern, or drawings).",
+      "Represent an increasing pattern concretely and pictorially.",
+      "Identify errors in an increasing pattern.",
+      "Explain the rule used to create an increasing pattern.",
+      "Create an increasing pattern and explain the pattern rule.",
+      "Represent an increasing pattern using another mode (e.g., colour to shape).",
+      "Solve a problem using increasing patterns.",
+      "Identify and describe increasing patterns in the environment (e.g., house/room numbers, flower petals, book pages, calendar, pine cones, leap years).",
+      "Determine missing elements in a concrete, pictorial, or symbolic increasing pattern, and explain the reasoning."
+    ],
+    "expectations": [
+      "describing",
+      "reproducing",
+      "extending",
+      "creating"
+    ]
+  },
+  "2.PR.3.": {
+    "description": "Demonstrate and explain the meaning of equality and inequality by using manipulatives and diagrams (0 to 100).",
+    "achievementIndicators": [
+      "Determine whether two quantities of the same object (same shape and mass) are equal by using a balance scale.",
+      "Construct and draw two unequal sets using the same object (same shape and mass), and explain the reasoning.",
+      "Demonstrate how to change two sets, equal in number, to create inequality.",
+      "Choose from three or more sets the one that does not have a quantity equal to the others, and explain why."
+    ],
+    "expectations": []
+  },
+  "2.PR.4.": {
+    "description": "Record equalities and inequalities symbolically using the equal symbol or the not-equal symbol.",
+    "achievementIndicators": [
+      "Determine whether two sides of a number sentence are equal (=) or not equal (\u2260). Write the appropriate symbol and justify the answer.",
+      "Model equalities using a variety of concrete representations, and record.",
+      "Model inequalities using a variety of concrete representations, and record symbolically."
+    ],
+    "expectations": []
+  },
+  "2.SS.1.": {
+    "description": "Relate the number of days to a week and the number of months to a year in a problem-solving context.",
+    "achievementIndicators": [
+      "Read a date on a calendar.",
+      "Name and order the days of the week.",
+      "Identify the day of the week and the month of the year for an identified calendar date.",
+      "State that there are seven days in a week and twelve months in a year.",
+      "Determine whether a set of days is more or less than a week.",
+      "Identify yesterday's/tomorrow's date.",
+      "Identify the month that comes before and the month that comes after a given month.",
+      "Name and order the months of the year.",
+      "Solve a problem involving time that is limited to the number of days in a week and the number of months in a year."
+    ],
+    "expectations": []
+  },
+  "2.SS.2.": {
+    "description": "Relate the size of a unit of measure to the number of units (limited to non-standard units) used to measure length and mass (weight).",
+    "achievementIndicators": [
+      "Explain why one of two non-standard units may be a better choice for measuring the length of an object.",
+      "Explain why one of two non-standard units may be a better choice for measuring the mass of an object.",
+      "Select a non-standard unit for measuring the length or mass of an object, and explain why it was chosen.",
+      "Estimate the number of non-standard units needed for a measurement task.",
+      "Explain why the number of units of a measurement will vary depending upon the unit of measure used."
+    ],
+    "expectations": []
+  },
+  "2.SS.3.": {
+    "description": "Compare and order objects by length, height, distance around, and mass (weight) using non-standard units, and make statements of comparison.",
+    "achievementIndicators": [
+      "Estimate, measure, and record the length, height, distance around, or mass (weight) of an object using non-standard units.",
+      "Compare and order the measure of two or more objects in ascending or descending order, and explain the method of ordering."
+    ],
+    "expectations": []
+  },
+  "2.SS.4.": {
+    "description": "Measure length to the nearest non-standard unit by",
+    "achievementIndicators": [
+      "Explain why overlapping or leaving gaps does not result in accurate measures.",
+      "Count the number of non-standard units required to measure the length of an object using a single copy or multiple copies of the same unit of measure.",
+      "Estimate and measure an object using multiple copies of a non-standard unit and using a single copy of the same unit many times, and explain the results.",
+      "Estimate and measure, using non-standard units, a length that is not a straight line.",
+      "Create different rulers, using non-standard units of measure, and use these rulers to measure length."
+    ],
+    "expectations": [
+      "using multiple copies of a unit",
+      "using a single copy of a unit (iteration process)"
+    ]
+  },
+  "2.SS.5.": {
+    "description": "Demonstrate that changing the orientation of an object does not alter the measurements of its attributes.",
+    "achievementIndicators": [
+      "Measure an object, change the orientation, re-measure, and explain the results."
+    ],
+    "expectations": []
+  },
+  "2.SS.6.": {
+    "description": "Sort 2-D shapes and 3-D objects using two attributes, and explain the sorting rule.",
+    "achievementIndicators": [
+      "Determine the differences between two pre-sorted sets, and explain the sorting rule.",
+      "Identify and name two common attributes of items within a sorted group.",
+      "Sort a set of 2-D shapes (regular and irregular) according to two attributes, and explain the sorting rule.",
+      "Sort a set of 3-D objects according to two attributes, and explain the sorting rule."
+    ],
+    "expectations": []
+  },
+  "2.SS.7.": {
+    "description": "Describe, compare, and construct 3-D objects, including",
+    "achievementIndicators": [
+      "Sort a set of 3-D objects, and explain the sorting rule.",
+      "Identify common attributes of cubes, spheres, cones, cylinders, prisms, or pyramids from sets of the same 3-D objects.",
+      "Identify and describe 3-D objects with different dimensions.",
+      "Identify and describe 3-D objects with different orientations.",
+      "Create and describe a representation of a 3-D object using materials such as modelling clay.",
+      "Identify examples of cubes, spheres, cones, cylinders, prisms, or pyramids found in the environment."
+    ],
+    "expectations": [
+      "cubes",
+      "spheres",
+      "cones",
+      "cylinders",
+      "prisms",
+      "pyramids"
+    ]
+  },
+  "2.SS.8.": {
+    "description": "Describe, compare, and construct 2-D shapes, including",
+    "achievementIndicators": [
+      "Sort a set of 2-D shapes, and explain the sorting rule.",
+      "Identify common attributes of triangles, squares, rectangles, or circles from sets of the same type of 2-D shapes.",
+      "Identify 2-D shapes with different dimensions.",
+      "Identify 2-D shapes with different orientations.",
+      "Create a model to represent a 2-D shape.",
+      "Create a pictorial representation of a 2-D shape."
+    ],
+    "expectations": [
+      "triangles",
+      "squares",
+      "rectangles",
+      "circles"
+    ]
+  },
+  "2.SS.9.": {
+    "description": "Identify 2-D shapes as parts of 3-D objects in the environment.",
+    "achievementIndicators": [
+      "Compare and match a 2-D shape, such as a triangle, square, rectangle, or circle, to the faces of 3-D objects in the environment.",
+      "Name the 2-D faces of a 3-D object."
+    ],
+    "expectations": []
+  },
+  "2.SP.1.": {
+    "description": "Gather and record data about self and others to answer questions.",
+    "achievementIndicators": [
+      "Formulate a question that can be answered by gathering information about self and others.",
+      "Organize data as it is collected using concrete objects, tallies, checkmarks, charts, or lists.",
+      "Answer questions using collected data."
+    ],
+    "expectations": []
+  },
+  "2.SP.2.": {
+    "description": "Construct and interpret concrete graphs and pictographs to solve problems.",
+    "achievementIndicators": [
+      "Determine the common attributes of concrete graphs by comparing a set of concrete graphs.",
+      "Determine the common attributes of pictographs by comparing a set of pictographs.",
+      "Answer questions pertaining to a concrete graph or pictograph.",
+      "Create a concrete graph to display a set of data and draw conclusions.",
+      "Create a pictograph to represent a set of data using one-to-one correspondence.",
+      "Solve a problem by constructing and interpreting a concrete graph or pictograph."
+    ],
+    "expectations": []
+  },
+  "3.N.1.": {
+    "description": "Say the number sequence between any two given numbers forward and backward",
+    "achievementIndicators": [
+      "Extend a skip-counting sequence by 10s or 100s, forward and backward, using a given starting point.",
+      "Extend a skip-counting sequence by 5s, forward and backward, starting at a given multiple of 5.",
+      "Extend a skip-counting sequence by 25s, forward and backward, starting at a given multiple of 25.",
+      "Extend a given skip-counting sequence by 3s, forward, starting at a given multiple of 3.",
+      "Extend a given skip-counting sequence by 4s, starting at a given multiple of 4.",
+      "Identify and correct errors and omissions in a skip-counting sequence.",
+      "Determine the value of a set of coins (nickels, dimes, quarters, loonies) by using skip-counting.",
+      "Identify and explain the skip-counting pattern for a number sequence."
+    ],
+    "expectations": [
+      "from 0 to 1000 by",
+      "10s or 100s, using any starting point",
+      "5s, using starting points that are multiples of 5",
+      "25s, using starting points that are multiples of 25",
+      "from 0 to 100 by",
+      "3s, using starting points that are multiples of 3",
+      "4s, using starting points that are multiples of 4"
+    ]
+  },
+  "3.N.2.": {
+    "description": "Represent and describe numbers to 1000, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Read a 3-digit numeral without using the word \"and\" (e.g., 321 is three hundred twenty-one, NOT three hundred AND twenty-one).",
+      "Read a number word (0 to 1000).",
+      "Represent a number as an expression (e.g., 300 \u2013 44 for 256 or 20 + 236).",
+      "Represent a number using manipulatives, such as base-10 materials.",
+      "Represent a number pictorially.",
+      "Write number words for multiples of ten to 90.",
+      "Write number words for multiples of a hundred to 900.",
+      "Determine compatible number pairs for 100."
+    ],
+    "expectations": []
+  },
+  "3.N.3.": {
+    "description": "Compare and order numbers to 1000.",
+    "achievementIndicators": [
+      "Place a set of numbers in ascending or descending order, and verify the result by using a hundred chart (e.g., a one hundred chart, a two hundred chart, a three hundred chart, a number line, or by making references to place value).",
+      "Create as many different 3-digit numerals as possible, given three different digits. Place the numbers in ascending or descending order.",
+      "Identify errors in an ordered sequence.",
+      "Identify missing numbers in parts of a hundred chart.",
+      "Identify errors in a hundred chart."
+    ],
+    "expectations": []
+  },
+  "3.N.4.": {
+    "description": "Estimate quantities less than 1000 using referents.",
+    "achievementIndicators": [
+      "Estimate the number of groups of ten in a quantity using 10 as a referent (known quantity).",
+      "Estimate the number of groups of a hundred in a quantity using 100 as a referent.",
+      "Estimate a quantity by comparing it to a referent.",
+      "Select an estimate for a quantity by choosing among three possible choices.",
+      "Select and justify a referent for determining an estimate for a quantity."
+    ],
+    "expectations": []
+  },
+  "3.N.5.": {
+    "description": "Illustrate, concretely and pictorially, the meaning of place value for numerals to 1000.",
+    "achievementIndicators": [
+      "Record in more than one way the number represented by proportional and non-proportional concrete materials.",
+      "Represent a number in different ways using proportional and non-proportional concrete materials, and explain how they are equivalent (e.g., 351 can be represented as three 100s, five 10s and one 1, or as two 100s, fifteen 10s, and one 1, or as three 100s, four 10s, and eleven 1s).",
+      "Explain, and show with counters, the meaning of each digit for a 3-digit numeral with all digits the same (e.g., for the numeral 222, the first digit represents two hundreds [two hundred counters] the second digit represents two tens [twenty counters], and the third digit represents two ones [two counters])."
+    ],
+    "expectations": []
+  },
+  "3.N.6.": {
+    "description": "Describe and apply mental mathematics strategies for adding two 2-digit numerals, such as",
+    "achievementIndicators": [
+      "Add two 2-digit numerals using a mental mathematics strategy, and explain or model the strategy.",
+      "Explain how to use the \"adding from left to right\" strategy (e.g., to determine the sum of 23 + 46, think 20 + 40 and 3 + 6).",
+      "Explain how to use the \"taking one addend to the nearest multiple of ten\" strategy (e.g., to determine the sum of 28 + 47, think 30 + 47 \u2013 2 or 50 + 28 \u2013 3).",
+      "Explain how to use the \"using doubles\" strategy (e.g., to determine the sum of 24 + 26, think 25 + 25; to determine the sum of 25 + 26, think 25 + 25 + 1 or doubles plus 1).",
+      "Apply a mental mathematics strategy for adding two 2-digit numerals."
+    ],
+    "expectations": [
+      "adding from left to right",
+      "taking one addend to the nearest multiple of ten and then compensating",
+      "using doubles"
+    ]
+  },
+  "3.N.7.": {
+    "description": "Describe and apply mental mathematics strategies for subtracting two 2-digit numerals, such as",
+    "achievementIndicators": [
+      "Subtract two 2-digit numerals using a mental mathematics strategy, and explain or model the strategy.",
+      "Explain how to use the \"taking the subtrahend to the nearest multiple of ten\" and then compensating strategy (e.g., to determine the difference of 48 \u2013 19, think 48 \u2013 20 + 1).",
+      "Explain how to use the \"thinking of addition\" strategy (e.g., to determine the difference of 62- 45, think 45 + 5, then 50 + 12, and then 5 + 12).",
+      "Explain how to use the \"using doubles\" strategy (e.g., to determine the difference of 24\u201312, think 12 + 12).",
+      "Apply a mental mathematics strategy for subtracting two 2-digit numerals."
+    ],
+    "expectations": [
+      "taking the subtrahend to the nearest multiple of ten and then compensating",
+      "thinking of addition",
+      "using doubles"
+    ]
+  },
+  "3.N.8.": {
+    "description": "Apply estimation strategies to predict sums and differences of two 2-digit numerals in a problem-solving context.",
+    "achievementIndicators": [
+      "Estimate the solution for a story problem involving the sum of two 2-digit numerals (e.g., to estimate the sum of 43 + 56, use 40 + 50; the sum is close to 90).",
+      "Estimate the solution for a story problem involving the difference of two 2-digit numerals (e.g., to estimate the difference of 56 \u2013 23, use 50 \u2013 20; the difference is close to 30)."
+    ],
+    "expectations": []
+  },
+  "3.N.9.": {
+    "description": "Demonstrate an understanding of addition and subtraction of numbers with answers to 1000 (limited to 1-, 2-, and 3-digit numerals) by",
+    "achievementIndicators": [
+      "Model the addition of two or more numbers using concrete or visual representations, and record the process symbolically.",
+      "Model the subtraction of two numbers using concrete or visual representations, and record the process symbolically.",
+      "Create an addition or subtraction story problem for a solution.",
+      "Determine the sum of two numbers using a personal strategy (e.g., for 326 + 48, record 300 + 60 + 14).",
+      "Determine the difference of two numbers using a personal strategy (e.g., for 127 \u2013 38, record 38 + 2 + 80 + 7 or 127 \u2013 20 \u2013 10 \u2013 8).",
+      "Solve a problem involving the sum or difference of two numbers."
+    ],
+    "expectations": [
+      "using personal strategies for adding and subtracting with and without the support of manipulatives",
+      "creating and solving problems in contexts that involve addition and subtraction of numbers concretely, pictorially, and symbolically."
+    ]
+  },
+  "3.N.10.": {
+    "description": "Apply mental math strategies to determine addition facts and related subtraction facts to 18 (9 + 9).",
+    "achievementIndicators": [
+      "Describe a mental mathematics strategy that could be used to determine a given basic fact, such as",
+      "doubles (e.g., for 6 + 8, think 7 + 7)",
+      "doubles plus one (e.g., for 6 + 7, think 6 + 6 + 1)",
+      "doubles take away one (e.g., for 6 + 7, think 7 + 7 \u2013 1)",
+      "doubles plus two (e.g., for 6 + 8, think 6 + 6 + 2)",
+      "doubles take away two (e.g., for 6 + 8, think 8 + 8 \u2013 2)",
+      "making 10 (e.g., for 6 + 8, think 6 + 4 + 4 or 8 + 2 + 4)",
+      "commutative property (e.g., for 3 + 9, think 9 + 3)",
+      "addition to subtraction (e.g., for 13 \u2013 7, think 7 + \n= 13)",
+      "Provide a rule for determining answers for adding and subtracting zero."
+    ],
+    "expectations": []
+  },
+  "3.N.11.": {
+    "description": "Demonstrate an understanding of multiplication to 5 \u00d7 5 by",
+    "achievementIndicators": [
+      "Identify events from experience that can be described as multiplication.",
+      "Represent a story problem (orally, shared reading, written) using manipulatives or diagrams, and record in a number sentence.",
+      "Skip-count by 2s, 3s, 4s, and 5s to determine the answer to a multiplication problem represented as equal groups.",
+      "Represent a multiplication expression as repeated addition.",
+      "Represent a repeated addition as multiplication.",
+      "Create and illustrate a story problem for a number sentence.",
+      "Represent, concretely or pictorially, equal groups for a number sentence.",
+      "Represent a multiplication expression using an array.",
+      "Create an array to model the commutative property of multiplication.",
+      "Relate multiplication to division by using arrays and by writing related number sentences.",
+      "Solve a problem in context involving multiplication."
+    ],
+    "expectations": [
+      "representing and explaining multiplication using equal grouping and arrays",
+      "creating and solving problems in context that involve multiplication",
+      "modelling multiplication using concrete and visual representations, and recording the process symbolically",
+      "relating multiplication to repeated addition",
+      "relating multiplication to division"
+    ]
+  },
+  "3.N.12.": {
+    "description": "Demonstrate an understanding of division by",
+    "achievementIndicators": [
+      "Identify events from experience that can be described as equal sharing.",
+      "Identify events from experience that can be described as equal grouping.",
+      "Illustrate, with counters or a diagram, a story problem involving equal sharing, presented orally or through shared reading, and solve the problem.",
+      "Illustrate, with counters or a diagram, a story problem involving equal grouping, presented orally or through shared reading, and solve the problem.",
+      "Listen to a story problem, represent the numbers using manipulatives or a sketch, and record the problem with a number sentence.",
+      "Create, and illustrate with counters, a story problem for a number sentence.",
+      "Represent a division expression as repeated subtraction.",
+      "Represent a repeated subtraction as a division expression.",
+      "Relate division to multiplication by using arrays and by writing related number sentences.",
+      "Solve a problem involving division."
+    ],
+    "expectations": [
+      "representing and explaining division using equal sharing and equal grouping",
+      "creating and solving problems in context that involve equal sharing and equal grouping",
+      "modelling equal sharing and equal grouping using concrete and visual representations, and recording the process symbolically",
+      "relating division to repeated subtraction",
+      "relating division to multiplication (limited to division related to multiplication facts up to 5 \u00d7 5)."
+    ]
+  },
+  "3.N.13.": {
+    "description": "Demonstrate an understanding of fractions by",
+    "achievementIndicators": [
+      "Identify common characteristics of a set of fractions.",
+      "Describe everyday situations where fractions are used.",
+      "Cut or fold a whole into equal parts, or draw a whole in equal parts; demonstrate that the parts are equal and name the parts.",
+      "Sort a set of diagrams of regions into those that represent equal parts and those that do not, and explain the sorting.",
+      "Represent a fraction concretely or pictorially.",
+      "Name and record the fraction represented by the shaded and non-shaded parts of a region.",
+      "Compare fractions with the same denominator using models.",
+      "Identify the numerator and denominator for a fraction.",
+      "Model and explain the meaning of numerator and denominator."
+    ],
+    "expectations": [
+      "explaining that a fraction represents a portion of a whole divided into equal parts",
+      "describing situations in which fractions are used",
+      "comparing fractions of the same whole with like denominators"
+    ]
+  },
+  "3.PR.1.": {
+    "description": "Demonstrate an understanding of increasing patterns by",
+    "achievementIndicators": [
+      "Describe an increasing pattern by stating a pattern rule that includes the starting point and a description of how the pattern continues.",
+      "Identify the pattern rule of an increasing pattern, and extend the pattern for the next three terms.",
+      "Identify and explain errors in an increasing pattern.",
+      "Identify and describe various increasing patterns found on a hundred chart, such as horizontal, vertical, and diagonal patterns.",
+      "Compare numeric patterns of counting by 2s, 3s, 4s, 5s, 10s, 25s, and 100s.",
+      "Create a concrete, pictorial, or symbolic representation of an increasing pattern for a pattern rule.",
+      "Create a concrete, pictorial, or symbolic increasing pattern, and describe the pattern rule.",
+      "Solve a problem using increasing patterns.",
+      "Identify and describe increasing patterns in the environment.",
+      "Identify and apply a pattern rule to determine missing elements for a pattern.",
+      "Describe the strategy used to determine missing elements in an increasing pattern."
+    ],
+    "expectations": [
+      "describing",
+      "extending",
+      "comparing",
+      "creating patterns using manipulatives, diagrams, and numbers (to 1000)."
+    ]
+  },
+  "3.PR.2.": {
+    "description": "Demonstrate an understanding of decreasing patterns by",
+    "achievementIndicators": [
+      "Describe a decreasing pattern by stating a pattern rule that includes the starting point and a description of how the pattern continues.",
+      "Identify the pattern rule of a decreasing pattern, and extend the pattern for the next three terms.",
+      "Identify and explain errors in a decreasing pattern.",
+      "Identify and describe various decreasing patterns found on a hundred chart, such as horizontal, vertical, and diagonal patterns.",
+      "Compare decreasing numeric patterns of counting backward by 2s, 3s, 4s, 5s, 10s, 25s, and 100s.",
+      "Create a concrete, pictorial, or symbolic decreasing pattern for a pattern rule.",
+      "Create a concrete, pictorial, or symbolic decreasing pattern, and describe the pattern rule.",
+      "Solve a problem using decreasing patterns.",
+      "Identify and describe decreasing patterns in the environment.",
+      "Identify and apply a pattern rule to determine missing elements for a pattern.",
+      "Describe the strategy used to determine missing elements in a decreasing pattern."
+    ],
+    "expectations": [
+      "describing",
+      "extending",
+      "comparing",
+      "creating patterns using manipulatives, diagrams, and numbers (starting from 1000 or less)."
+    ]
+  },
+  "3.PR.3.": {
+    "description": "Solve one-step addition and subtraction equations involving symbols representing an unknown number.",
+    "achievementIndicators": [
+      "Explain the purpose of the symbol, such as a triangle or a circle, in an addition or a subtraction equation with one unknown.",
+      "Create an addition or subtraction equation with one unknown to represent a combination or separation action.",
+      "Provide an alternative symbol for the unknown in an addition or subtraction equation.",
+      "Solve an addition or subtraction equation that represents combining or separating actions with one unknown, using manipulatives.",
+      "Solve an addition or subtraction equation with one unknown using a variety of strategies including guess and test.",
+      "Explain why the unknown in an addition or subtraction equation has only one value."
+    ],
+    "expectations": []
+  },
+  "3.SS.1.": {
+    "description": "Relate the passage of time to common activities using non-standard and standard units (minutes, hours, days, weeks, months, years).",
+    "achievementIndicators": [
+      "Select and use a non-standard unit of measure, such as television shows or pendulum swings, to measure the passage of time, and explain the choice.",
+      "Identify activities that can or cannot be accomplished in minutes, hours, days, months, and years.",
+      "Provide personal referents for minutes and hours."
+    ],
+    "expectations": []
+  },
+  "3.SS.2.": {
+    "description": "Relate the number of seconds to a minute, the number of minutes to an hour, and the number of days to a month in a problem-solving context.",
+    "achievementIndicators": [
+      "Determine the number of days in any month using a calendar.",
+      "Solve a problem involving the number of minutes in an hour or the number of days in a given month.",
+      "Create a calendar that includes days of the week, dates, and events."
+    ],
+    "expectations": []
+  },
+  "3.SS.3.": {
+    "description": "Demonstrate an understanding of measuring length (cm, m) by",
+    "achievementIndicators": [
+      "Provide a personal referent for one centimetre and explain the choice.",
+      "Provide a personal referent for one metre and explain the choice.",
+      "Match a standard unit to a referent.",
+      "Show that 100 centimetres is equivalent to 1 metre by using concrete materials.",
+      "Estimate the length of an object using personal referents.",
+      "Determine and record the length or width of a 2-D shape.",
+      "Determine and record the length, width, or height of a 3-D object.",
+      "Draw a line segment of a given length using a ruler.",
+      "Sketch a line segment of a given length without using a ruler."
+    ],
+    "expectations": [
+      "selecting and justifying referents for the units cm and m",
+      "modelling and describing the relationship between the units cm and m",
+      "estimating length using referents",
+      "measuring and recording length, width, and height"
+    ]
+  },
+  "3.SS.4.": {
+    "description": "Demonstrate an understanding of measuring mass (g, kg) by",
+    "achievementIndicators": [
+      "Provide a personal referent for one gram and explain the choice.",
+      "Provide a personal referent for one kilogram and explain the choice.",
+      "Match a standard unit to a referent.",
+      "Explain the relationship between 1000 grams and 1 kilogram using a model.",
+      "Estimate the mass of an object using personal referents.",
+      "Determine and record the mass of a 3-D object.",
+      "Measure, using a scale, and record the mass of everyday objects using the units g and kg.",
+      "Provide examples of 3-D objects that have a mass of approximately 1g, 100g, and 1kg.",
+      "Determine the mass of two similar objects with different masses, and explain the results.",
+      "Determine the mass of an object, change its shape, re-measure its mass, and explain the results."
+    ],
+    "expectations": [
+      "selecting and justifying referents for the units g and kg",
+      "modelling and describing the relationship between the units g and kg",
+      "estimating mass using referents",
+      "measuring and recording mass"
+    ]
+  },
+  "3.SS.5.": {
+    "description": "Demonstrate an understanding of perimeter of regular and irregular shapes by",
+    "achievementIndicators": [
+      "Measure and record the perimeter of a regular shape, and explain the strategy used.",
+      "Measure and record the perimeter of an irregular shape, and explain the strategy used.",
+      "Construct a shape for a given perimeter (cm, m).",
+      "Construct or draw more than one shape for the same perimeter.",
+      "Estimate the perimeter of a shape (cm, m) using personal referents."
+    ],
+    "expectations": [
+      "estimating perimeter using referents for centimetre or metre",
+      "measuring and recording perimeter (cm, m)",
+      "constructing different shapes for a given perimeter (cm, m) to demonstrate that many shapes are possible for a perimeter"
+    ]
+  },
+  "3.SS.6.": {
+    "description": "Describe 3-D objects according to the shape of the faces, and the number of edges and vertices.",
+    "achievementIndicators": [
+      "Identify the faces, edges, and vertices of a 3-D object, including cubes, spheres, cones, cylinders, pyramids, and prisms.",
+      "Identify the shape of the faces of a 3-D object.",
+      "Determine the number of faces, edges, and vertices of a 3-D object.",
+      "Construct a skeleton of a 3-D object, and describe how the skeleton relates to the 3-D object.",
+      "Sort a set of 3-D objects according to the number of faces, edges, or vertices."
+    ],
+    "expectations": []
+  },
+  "3.SS.7.": {
+    "description": "Sort regular and irregular polygons, including",
+    "achievementIndicators": [
+      "Classify a set of regular and irregular polygons according to the number of sides.",
+      "Identify regular and irregular polygons having different dimensions.",
+      "Identify regular and irregular polygons having different orientations."
+    ],
+    "expectations": [
+      "triangles",
+      "quadrilaterals",
+      "pentagons",
+      "hexagons",
+      "octagons according to the number of sides."
+    ]
+  },
+  "3.SP.1.": {
+    "description": "Collect first-hand data and organize it using",
+    "achievementIndicators": [
+      "Record the number of objects in a set using tally marks.",
+      "Determine the attributes of line plots.",
+      "Organize a set of data using tally marks, line plots, charts, or lists.",
+      "Collect and organize data using tally marks, line plots, charts, or lists.",
+      "Answer questions arising from a line plot, chart, or list.",
+      "Answer questions using collected data."
+    ],
+    "expectations": [
+      "tally marks",
+      "line plots",
+      "charts",
+      "lists to answer questions."
+    ]
+  },
+  "3.SP.2.": {
+    "description": "Construct, label, and interpret bar graphs to solve problems.",
+    "achievementIndicators": [
+      "Determine the attributes of bar graphs.",
+      "Create bar graphs from a set of data including labelling the title and axes.",
+      "Draw conclusions from a bar graph to solve problems.",
+      "Solve problems by constructing and interpreting a bar graph."
+    ],
+    "expectations": []
+  },
+  "4.N.1.": {
+    "description": "Represent and describe whole numbers to 10 000, pictorially and symbolically.",
+    "achievementIndicators": [
+      "Read a four-digit numeral without using the word \"and\" (e.g., 5321 is five thousand three hundred twenty-one, NOT five thousand three hundred AND twenty-one).",
+      "Write a numeral using proper spacing without commas (e.g., 4567 or 4 567, 10 000).",
+      "Write a numeral 0 - 10 000 in words.",
+      "Represent a numeral using a place value chart or diagrams.",
+      "Describe the meaning of each digit in a numeral.",
+      "Express a numeral in expanded notation (e.g., 321 = 300 + 20 + 1).",
+      "Write the numeral represented in expanded notation.",
+      "Explain the meaning of each digit in a 4-digit numeral with all digits the same (e.g., for the numeral 2222, the first digit represents two thousands, the second digit two hundreds, the third digit two tens, and the fourth digit two ones)."
+    ],
+    "expectations": []
+  },
+  "4.N.2.": {
+    "description": "Compare and order numbers to 10 000.",
+    "achievementIndicators": [
+      "Order a set of numbers in ascending or descending order, and explain the order by making references to place value.",
+      "Create and order three 4-digit numerals.",
+      "Identify the missing numbers in an ordered sequence or between two benchmarks on a number line (vertical or horizontal).",
+      "Identify incorrectly placed numbers in an ordered sequence or between two benchmarks on a number line (vertical or horizontal)."
+    ],
+    "expectations": []
+  },
+  "4.N.3.": {
+    "description": "Demonstrate an understanding of addition of numbers with answers to 10 000 and their corresponding subtractions (limited to 3- and 4-digit numerals), concretely, pictorially, and symbolically, by",
+    "achievementIndicators": [
+      "Model addition and subtraction using concrete materials and visual representations, and record the process symbolically.",
+      "Determine the sum of two numbers using a personal strategy (e.g., for 1326 + 548, record 1300 + 500 + 74).",
+      "Determine the difference of two numbers using a personal strategy (e.g., for 4127 \u2013 238, record 238 + 2 + 60 + 700 + 3000 + 127 or 4127 \u2013 27 \u2013 100 \u2013 100 \u2013 11).",
+      "Model and explain the relationship that exists between an algorithm, place value, and number properties.",
+      "Determine the sum and difference using the standard algorithms of vertical addition and subtraction. (Numbers are arranged vertically with corresponding place value digits aligned.)",
+      "Describe a situation in which an estimate rather than an exact answer is sufficient.",
+      "Estimate sums and differences using different strategies (e.g., front-end estimation and compensation).",
+      "Solve problems that involve addition and subtraction of more than 2 numbers.",
+      "Refine personal strategies to increase efficiency when appropriate (e.g., 3000 \u2013 2999 should not require the use of an algorithm)."
+    ],
+    "expectations": [
+      "using personal strategies",
+      "using the standard algorithms",
+      "estimating sums and differences",
+      "solving problems"
+    ]
+  },
+  "4.N.4.": {
+    "description": "Explain the properties of 0 and 1 for multiplication and the property of 1 for division.",
+    "achievementIndicators": [
+      "Explain the property for determining the answer when multiplying numbers by one.",
+      "Explain the property for determining the answer when multiplying numbers by zero.",
+      "Explain the property for determining the answer when dividing numbers by one."
+    ],
+    "expectations": []
+  },
+  "4.N.5.": {
+    "description": "Describe and apply mental mathematics strategies, such as",
+    "achievementIndicators": [
+      "Provide examples for applying mental mathematics strategies:",
+      "skip-counting from a known fact (e.g., for 6 x 3, think 5 x 3 = 15, then 15 + 3 = 18)",
+      "halving/doubling (e.g., for 4 x 3, think 2 x 6 = 12)",
+      "using a known double and adding one more group (e.g., for 3 x 7, think 2 x 7 = 14, then 14 + 7 = 21)",
+      "repeated doubling (e.g., for 4 x 6, think 2 x 6 = 12 and 2 x 12 = 24)",
+      "use ten facts when multiplying by 9 (e.g., for 9 \u00d7 6, think 10 \u00d7 6 = 60, and 60 \u2013 6 = 54; for 7 x 9, think 7 x 10 = 70, and 70 - 7 = 63)",
+      "halving (e.g., for 30 \u00f7 6, think 15 \u00f7 3 = 5)",
+      "relating division to multiplication (e.g., for 64 \u00f7 8, think 8 \u00d7 = 64)"
+    ],
+    "expectations": [
+      "skip-counting from a known fact",
+      "using halving/doubling",
+      "using doubling and adding one more group",
+      "using patterns in the 9s facts",
+      "using repeated doubling",
+      "to develop an understanding of basic multiplication facts to 9 x 9 and related division facts."
+    ]
+  },
+  "4.N.6.": {
+    "description": "Demonstrate an understanding of multiplication (2- or 3-digit numerals by 1-digit numerals) to solve problems by",
+    "achievementIndicators": [
+      "Model a multiplication problem using the distributive property [e.g., 8 x 365 = (8 \u00d7 300) + (8 \u00d7 60) + (8 \u00d7 5)].",
+      "Use concrete materials, such as base-10 blocks or their pictorial representations, to represent multiplication, and record the process symbolically.",
+      "Create and solve a multiplication problem that is limited to 2 or 3 digits by 1 digit.",
+      "Estimate a product using a personal strategy (e.g., 2 x 243 is close to or a little more than 2 x 200, or close to or a little less than 2 x 250).",
+      "Model and solve a multiplication problem using an array, and record the process.",
+      "Solve a multiplication problem and record the process."
+    ],
+    "expectations": [
+      "using personal strategies for multiplication with and without concrete materials",
+      "using arrays to represent multiplication",
+      "connecting concrete representations to symbolic representations",
+      "estimating products"
+    ]
+  },
+  "4.N.7.": {
+    "description": "Demonstrate an understanding of division (1-digit divisor and up to 2-digit dividend) to solve problems by",
+    "achievementIndicators": [
+      "Solve a division problem without a remainder using arrays or base-10 materials.",
+      "Solve a division problem with a remainder using arrays or base-10 materials.",
+      "Solve a division problem using a personal strategy, and record the process.",
+      "Create and solve a word problem involving a 1- or 2-digit dividend.",
+      "Estimate a quotient using a personal strategy (e.g., 86 \u00f7 4 is close to 80 \u00f7 4 or close to 80 \u00f7 5)."
+    ],
+    "expectations": [
+      "using personal strategies for dividing with and without concrete materials",
+      "estimating quotients",
+      "relating division to multiplication"
+    ]
+  },
+  "4.N.8.": {
+    "description": "Demonstrate an understanding of fractions less than or equal to one by using concrete and pictorial representations to",
+    "achievementIndicators": [
+      "Represent a fraction using concrete materials.",
+      "Identify a fraction from its concrete representation.",
+      "Name and record the shaded and non-shaded parts of a set.",
+      "Name and record the shaded and non-shaded parts of a whole.",
+      "Represent a fraction pictorially by shading parts of a set.",
+      "Represent a fraction pictorially by shading parts of a whole.",
+      "Explain how denominators can be used to compare two unit fractions.",
+      "Order a set of fractions that have the same numerator, and explain the ordering.",
+      "Order a set of fractions that have the same denominator, and explain the ordering.",
+      "Identify which of the benchmarks 0, \u00bd, or 1 is closest to a fraction.",
+      "Name fractions between two benchmarks on a number line (horizontal or vertical).",
+      "Order a set of fractions by placing them on a number line (horizontal or vertical) with benchmarks.",
+      "Provide examples where two identical fractions may not represent the same quantity (e.g., half of a large apple is not equivalent to half of a small apple; half of ten berries is not equivalent to half of sixteen berries).",
+      "Provide an example of a fraction that represents part of a set, and a fraction that represents part of a whole, from everyday contexts."
+    ],
+    "expectations": [
+      "name and record fractions for the parts of a whole or a set",
+      "compare and order fractions",
+      "model and explain that for different wholes, two identical fractions may not represent the same quantity",
+      "provide examples of where fractions are used"
+    ]
+  },
+  "4.N.9.": {
+    "description": "Describe and represent decimals (tenths and hundredths), concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Write the decimal for a concrete or pictorial representation of part of a set, part of a region or part of a unit of measure.",
+      "Represent a decimal using concrete materials or a pictorial representation.",
+      "Explain the meaning of each digit in a decimal with all digits the same.",
+      "Represent a decimal using money values (pennies and dimes).",
+      "Record a money value using decimals.",
+      "Provide examples of everyday contexts in which tenths and hundredths are used.",
+      "Model, using manipulatives or pictures, that a tenth can be expressed as hundredths (e.g., 0.9 is equivalent to 0.90 or 9 dimes is equivalent to 90 pennies)."
+    ],
+    "expectations": []
+  },
+  "4.N.10.": {
+    "description": "Relate decimals to fractions (to hundredths).",
+    "achievementIndicators": [
+      "Read decimals as fractions (e.g., 0.5 is zero and five-tenths).",
+      "Express orally and in written form a decimal in fractional form.",
+      "Express orally and in written form a fraction with a denominator of 10 or 100 as a decimal.",
+      "Express a pictorial or concrete representation as a fraction or decimal (e.g., 15 shaded squares on a hundred grid can be expressed as 0.15 or 15/100).",
+      "Express orally and in written form the decimal equivalent for a fraction (e.g., 50/100 can be expressed as 0.50)."
+    ],
+    "expectations": []
+  },
+  "4.N.11.": {
+    "description": "Demonstrate an understanding of addition and subtraction of decimals (limited to hundredths) by",
+    "achievementIndicators": [
+      "Predict sums and differences of decimals using estimation strategies.",
+      "Solve problems, including money problems, which involve addition and subtraction of decimals, limited to hundredths.",
+      "Determine the approximate solution of a problem not requiring an exact answer.",
+      "Estimate a sum or difference using compatible numbers.",
+      "Count back change for a purchase."
+    ],
+    "expectations": [
+      "using compatible numbers",
+      "estimating sums and differences",
+      "using mental math strategies",
+      "to solve problems."
+    ]
+  },
+  "4.PR.1.": {
+    "description": "Identify and describe patterns found in tables and charts, including a multiplication chart.",
+    "achievementIndicators": [
+      "Identify and describe a variety of patterns in a multiplication chart.",
+      "Determine the missing elements in a table or chart.",
+      "Identify error(s) in a table or chart.",
+      "Describe the pattern found in a table or chart."
+    ],
+    "expectations": []
+  },
+  "4.PR.2.": {
+    "description": "Reproduce a pattern shown in a table or chart using concrete materials.",
+    "achievementIndicators": [
+      "Create a concrete representation of a pattern displayed in a table or chart.",
+      "Explain why the same relationship exists between the pattern in a table and its concrete representation."
+    ],
+    "expectations": []
+  },
+  "4.PR.3.": {
+    "description": "Represent and describe patterns and relationships using charts and tables to solve problems.",
+    "achievementIndicators": [
+      "Extend patterns found in a table or chart to solve a problem.",
+      "Translate the information provided in a problem into a table or chart.",
+      "Identify and extend the patterns in a table or chart to solve a problem."
+    ],
+    "expectations": []
+  },
+  "4.PR.4.": {
+    "description": "Identify and explain mathematical relationships using charts and diagrams to solve problems.",
+    "achievementIndicators": [
+      "Complete a Carroll diagram by entering data into correct squares to solve a given problem.",
+      "Determine where new elements belong in a Carroll diagram.",
+      "Solve a problem using a Carroll diagram.",
+      "Identify a sorting rule for a Venn diagram.",
+      "Describe the relationship shown in a Venn diagram when the circles intersect, when one circle is contained in the other, and when the circles are separate.",
+      "Determine where new elements belong in a Venn diagram.",
+      "Solve a problem by using a chart or diagram to identify mathematical relationships."
+    ],
+    "expectations": []
+  },
+  "4.PR.5.": {
+    "description": "Express a problem as an equation in which a symbol is used to represent an unknown number.",
+    "achievementIndicators": [
+      "Explain the purpose of the symbol, such as a triangle or circle, in an addition, subtraction, multiplication, or division equation with one unknown (e.g., 6 = 36 \u00f7 \u25b3).",
+      "Express a pictorial or concrete representation of an equation in symbolic form.",
+      "Identify the unknown in a story problem, represent the problem with an equation, and solve the problem concretely, pictorially, or symbolically.",
+      "Create a problem in context for an equation with one unknown."
+    ],
+    "expectations": []
+  },
+  "4.PR.6.": {
+    "description": "Solve one-step equations involving a symbol to represent an unknown number.",
+    "achievementIndicators": [
+      "Solve a one-step equation using manipulatives.",
+      "Solve a one-step equation using guess and test.",
+      "Describe, orally, the meaning of a one-step equation with one unknown.",
+      "Solve an equation when the unknown is on the left or right side of the equation.",
+      "Represent and solve an addition or subtraction problem involving a \u201cpart-part-whole\" or comparison context using a symbol to represent the unknown.",
+      "Represent and solve a multiplication or division problem involving equal grouping or partitioning (equal sharing), using symbols to represent the unknown."
+    ],
+    "expectations": []
+  },
+  "4.SS.1.": {
+    "description": "Read and record time using digital and analog clocks, including 24-hour clocks.",
+    "achievementIndicators": [
+      "State the number of hours in a day.",
+      "Express the time orally and numerically from a 12-hour analog clock.",
+      "Express the time orally and numerically from a 24-hour analog clock.",
+      "Express the time orally and numerically from a 12-hour digital clock.",
+      "Describe time orally and numerically from a 24-hour digital clock.",
+      "Describe time orally as \"minutes to\" or \"minutes after\" the hour.",
+      "Explain the meaning of AM and PM, and provide an example of an activity that occurs during the AM and another that occurs during the PM."
+    ],
+    "expectations": []
+  },
+  "4.SS.2.": {
+    "description": "Read and record calendar dates in a variety of formats.",
+    "achievementIndicators": [
+      "Write dates in a variety of formats (e.g., yyyy/mm/dd, dd/mm/yyyy, March 21, 2006, dd/mm/yy).",
+      "Relate dates written in the format yyyy/mm/dd to dates on a calendar.",
+      "Identify possible interpretations of a given date (e.g., 06/03/04)."
+    ],
+    "expectations": []
+  },
+  "4.SS.3.": {
+    "description": "Demonstrate an understanding of area of regular and irregular 2-D shapes by",
+    "achievementIndicators": [
+      "Describe area as the measure of surface recorded in square units.",
+      "Identify and explain why the square is the most efficient unit for measuring area.",
+      "Provide a referent for a square centimetre and explain the choice.",
+      "Provide a referent for a square metre and explain the choice.",
+      "Determine which standard square unit is represented by a referent.",
+      "Estimate the area of a 2-D shape using personal referents.",
+      "Determine the area of a regular 2-D shape and explain the strategy.",
+      "Determine the area of an irregular 2-D shape and explain the strategy.",
+      "Construct a rectangle for a given area.",
+      "Demonstrate that many rectangles are possible for an area by drawing at least two different rectangles for the same area."
+    ],
+    "expectations": [
+      "recognizing that area is measured in square units",
+      "selecting and justifying referents for the units cm\u00b2 or m\u00b2",
+      "estimating area by using referents for cm\u00b2 or m\u00b2",
+      "determining and recording area (cm\u00b2 or m\u00b2)",
+      "constructing different rectangles for a given area (cm\u00b2 or m\u00b2) in order to demonstrate that many different rectangles may have the same area"
+    ]
+  },
+  "4.SS.4.": {
+    "description": "Solve problems involving 2-D shapes and 3-D objects.",
+    "achievementIndicators": [
+      "Fill an outline with 2-D shapes (e.g., tangram pieces, pentominoes, or polygons).",
+      "Reproduce 2-D shapes from drawings, real objects (e.g., tables, houses, letters of the alphabet), or attributes on geo-boards.",
+      "Reproduce a structure using 3-D objects (e.g., cubes, 3-D pentominoes)."
+    ],
+    "expectations": []
+  },
+  "4.SS.5.": {
+    "description": "Describe and construct rectangular and triangular prisms.",
+    "achievementIndicators": [
+      "Identify and name common attributes of rectangular prisms from sets of rectangular prisms.",
+      "Identify and name common attributes of triangular prisms from sets of triangular prisms.",
+      "Sort a set of rectangular and triangular prisms using the shape of the base.",
+      "Construct and describe a model of rectangular and triangular prisms using materials such as pattern blocks or modelling clay.",
+      "Construct rectangular prisms from their nets.",
+      "Construct triangular prisms from their nets.",
+      "Identify examples of rectangular and triangular prisms found in the environment."
+    ],
+    "expectations": []
+  },
+  "4.SS.6.": {
+    "description": "Demonstrate an understanding of line symmetry by",
+    "achievementIndicators": [
+      "Identify the characteristics of symmetrical and non-symmetrical 2-D shapes.",
+      "Sort a set of 2-D shapes as symmetrical and non-symmetrical.",
+      "Complete a symmetrical 2-D shape, half the shape, and its line of symmetry.",
+      "Identify lines of symmetry of a set of 2-D shapes, and explain why each shape is symmetrical.",
+      "Determine whether or not a 2-D shape is symmetrical by using a Mira or by folding and superimposing.",
+      "Create a symmetrical shape with or without manipulatives.",
+      "Provide examples of symmetrical shapes found in the environment, and identify the line(s) of symmetry.",
+      "Sort a set of 2-D shapes as those that have no lines of symmetry, one line of symmetry, or more than one line of symmetry."
+    ],
+    "expectations": [
+      "identifying symmetrical 2-D shapes",
+      "creating symmetrical 2-D shapes",
+      "drawing one or more lines of symmetry in a 2-D shape"
+    ]
+  },
+  "4.SP.1.": {
+    "description": "Demonstrate an understanding of many-to-one correspondence.",
+    "achievementIndicators": [
+      "Compare graphs in which different intervals or correspondences are used, and explain why the interval or correspondence was used.",
+      "Compare graphs in which the same data has been displayed using one-to-one and many-to-one correspondences, and explain how they are the same and different.",
+      "Explain why many-to-one correspondence is sometimes used rather than one-to-one correspondence.",
+      "Find examples of graphs in which many-to-one correspondence is used in print and electronic media, such as newspapers, magazines, and the Internet, and describe the correspondence used."
+    ],
+    "expectations": []
+  },
+  "4.SP.2.": {
+    "description": "Construct and interpret pictographs and bar graphs involving many-to-one correspondence to draw conclusions.",
+    "achievementIndicators": [
+      "Identify an interval and correspondence for displaying a set of data in a graph, and justify the choice.",
+      "Create and label (with categories, title, and legend) a pictograph to display a set of data using many-to-one correspondence, and justify the choice of correspondence used.",
+      "Create and label (with axes and title) a bar graph to display a set of data using many-to-one correspondence, and justify the choice of interval used.",
+      "Answer a question using a graph in which data is displayed using many-to-one correspondence."
+    ],
+    "expectations": []
+  },
+  "5.N.1.": {
+    "description": "Represent and describe whole numbers to 1 000 000.",
+    "achievementIndicators": [
+      "Write a numeral using proper spacing without commas (e.g., 934 567 and not 934,567).",
+      "Describe the pattern of adjacent place positions moving from right to left.",
+      "Describe the meaning of each digit in a numeral.",
+      "Provide examples of large numbers used in print or electronic media.",
+      "Express a given numeral in expanded notation (e.g., 45 321 = [4 \u00d7 10 000] + [5 \u00d7 1000] + [3 \u00d7 100] + [2 \u00d7 10] + [1 \u00d7 1] or 40 000 + 5000 + 300 + 20 + 1).",
+      "Write the numeral represented in expanded notation."
+    ],
+    "expectations": []
+  },
+  "5.N.2.": {
+    "description": "Apply estimation strategies, including in problem-solving contexts.",
+    "achievementIndicators": [
+      "Provide a context for when estimation is used to make predictions, check reasonableness of an answer, determine approximate answers.",
+      "Describe contexts in which overestimating is important.",
+      "Determine the approximate solution to a problem not requiring an exact answer.",
+      "Estimate a sum or product using compatible numbers.",
+      "Estimate the solution to a problem using compensation, and explain the reason for compensation.",
+      "Select and use an estimation strategy to solve a problem.",
+      "Apply front-end rounding to estimate sums (e.g., 253 + 615 is more than 200 + 600 = 800), differences (e.g., 974 \u2013 250 is close to 900 \u2013 200 = 700), products (e.g., the product of 23 \u00d7 24 is greater than 20 \u00d7 20 or 400 and less than 25 \u00d7 25 or 625), quotients (e.g., the quotient of 831 \u00f7 4 is greater than 800 \u00f7 4 or 200)."
+    ],
+    "expectations": [
+      "front-end rounding",
+      "compensation",
+      "compatible numbers",
+      "in problem-solving contexts."
+    ]
+  },
+  "5.N.3.": {
+    "description": "Apply mental math strategies to determine multiplication and related division facts to 81 (9 x 9).",
+    "achievementIndicators": [
+      "Describe the mental mathematics strategy used to determine a basic fact, such as skip-count up by one or two groups from a known fact (e.g., if 5 \u00d7 7 = 35, then 6 \u00d7 7 is equal to 35 + 7 and 7 \u00d7 7 is equal to 35 + 7 + 7), skip-count down by one or two groups from a known fact (e.g., if 8 \u00d7 8 = 64, then 7 x 8 is equal to 64 - 8 and 6 \u00d7 8 is equal to 64 \u2013 8 \u2013 8), halving/doubling (e.g., for 8 \u00d7 3 think 4 \u00d7 6 = 24), use patterns when multiplying by 9 (e.g., for 9 \u00d7 6, think 10 x 6 = 60, then 60 \u2013 6 = 54; for 7 x 9, think 7 \u00d7 10 = 70, and 70 \u2013 7 = 63), repeated doubling (e.g., if 2 \u00d7 6 is equal to 12, then 4 x 6 is equal to 24, and 8 \u00d7 6 is equal to 48), repeated halving (e.g., for 60 \u00f7 4, think 60 \u00f7 2 = 30 and 30 \u00f7 2 = 15), relating multiplication to division facts (e.g., for 7 x 8, think 56 \u00f7 7=), use multiplication facts that are squares (1 x 1, 2 x 2, up to 9 x 9).",
+      "Refine personal strategies to increase efficiency (e.g., for 7 x 6, use known square 6 x 6 + 6 instead of repeated addition 6 +6+6+6+6+6)."
+    ],
+    "expectations": []
+  },
+  "5.N.4.": {
+    "description": "Apply mental mathematics strategies for multiplication, such as",
+    "achievementIndicators": [
+      "Determine the products when one factor is a multiple of 10, 100, or 1000 by annexing zero or adding zeros (e.g., for 3 \u00d7 200 think 3 \u00d7 2 and then add two zeros).",
+      "Apply halving and doubling when determining a product (e.g., 32 x 5 is the same as 16 x 10).",
+      "Apply the distributive property to determine a product involving multiplying factors that are close to multiples of 10 [e.g., 98 \u00d7 7 = (100 \u00d7 7) \u2013 (2 \u00d7 7)]."
+    ],
+    "expectations": [
+      "annexing then adding zeros",
+      "halving and doubling",
+      "using the distributive property"
+    ]
+  },
+  "5.N.5.": {
+    "description": "Demonstrate an understanding of multiplication (1- and 2-digit multipliers and up to 4-digit multiplicands), concretely, pictorially, and symbolically, by to solve problems.",
+    "achievementIndicators": [
+      "Illustrate partial products in expanded notation for both factors [e.g., for 36 \u00d7 42, determine the partial products for (30 + 6) \u00d7 (40 + 2)].",
+      "Represent both 2-digit factors in expanded notation to illustrate the distributive property [e.g., to determine the partial products of 36 \u00d7 42, (30 + 6) \u00d7 (40 + 2) = 30 \u00d7 40 + 30 \u00d7 2 + 6 \u00d7 40 + 6 \u00d7 2 = 1200 + 60 + 240 + 12 = 1512].",
+      "Model the steps for multiplying 2-digit factors using an array and base-10 blocks, and record the process symbolically.",
+      "Describe a solution procedure for determining the product of two 2-digit factors using a pictorial representation, such as an area model.",
+      "Model and explain the relationship that exists between an algorithm, place value, and number properties.",
+      "Determine products using the standard algorithm of vertical multiplication. (Numbers arranged vertically and multiplied using single digits which are added to form a final product.)",
+      "Solve a multiplication problem in context using personal strategies, and record the process.",
+      "Refine personal strategies such as mental math strategies to increase efficiency when appropriate [e.g., 16 x 25 think 4 x (4 x 25) = 400]."
+    ],
+    "expectations": [
+      "using personal strategies",
+      "using the standard algorithm",
+      "estimating products",
+      "to solve problems."
+    ]
+  },
+  "5.N.6.": {
+    "description": "Demonstrate an understanding of division (1- and 2-digit divisors and up to 4-digit dividends), concretely, pictorially, and symbolically, and interpret remainders by to solve problems.",
+    "achievementIndicators": [
+      "Model the division process as equal sharing using base-10 blocks, and record it symbolically.",
+      "Explain that the interpretation of a remainder depends on the context: ignore the remainder (e.g., making teams of 4 from 22 people), round up the quotient (e.g., the number of five passenger cars required to transport 13 people), express remainders as fractions (e.g., five apples shared by two people), express remainders as decimals (e.g., measurement or money).",
+      "Model and explain the relationship that exists between algorithm, place value, and number properties.",
+      "Determine quotients using the standard algorithm of long division. (The multiples of the divisor are subtracted from the dividend.)",
+      "Solve a division problem in context using personal strategies, and record the process.",
+      "Refine personal strategies such as mental math strategies to increase efficiency when appropriate (e.g., 860 \u00f7 2 think 86 \u00f7 2 = 43 then 860 \u00f7 2 is 430)."
+    ],
+    "expectations": [
+      "using personal strategies",
+      "using the standard algorithm",
+      "estimating quotients",
+      "to solve problems."
+    ]
+  },
+  "5.N.7.": {
+    "description": "Demonstrate an understanding of fractions by using concrete and pictorial representations to",
+    "achievementIndicators": [
+      "Create a set of equivalent fractions and explain why there are many equivalent fractions for any fraction using concrete materials.",
+      "Model and explain that equivalent fractions represent the same quantity.",
+      "Determine if two fractions are equivalent using concrete materials or pictorial representations.",
+      "Formulate and verify a rule for developing a set of equivalent fractions.",
+      "Identify equivalent fractions for a fraction.",
+      "Compare two fractions with unlike denominators by creating equivalent fractions.",
+      "Position a set of fractions with like and unlike denominators on a number line (vertical or horizontal), and explain strategies used to determine the order."
+    ],
+    "expectations": [
+      "create sets of equivalent fractions",
+      "compare fractions with like and unlike denominators"
+    ]
+  },
+  "5.N.8.": {
+    "description": "Describe and represent decimals (tenths, hundredths, thousandths) concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Write the decimal for a concrete or pictorial representation of part of a set, part of a region, or part of a unit of measure.",
+      "Represent a decimal using concrete materials or a pictorial representation.",
+      "Represent an equivalent tenth, hundredth, or thousandth for a decimal, using a grid.",
+      "Express a tenth as an equivalent hundredth and thousandth.",
+      "Express a hundredth as an equivalent thousandth.",
+      "Describe the value of each digit in a decimal."
+    ],
+    "expectations": []
+  },
+  "5.N.9.": {
+    "description": "Relate decimals to fractions (tenths, hundredths, thousandths).",
+    "achievementIndicators": [
+      "Write a decimal in fractional form.",
+      "Write a fraction with a denominator of 10, 100, or 1000 as a decimal.",
+      "Express a pictorial or concrete representation as a fraction or decimal (e.g., 250 shaded squares on a thousandth grid can be expressed as 0.250 or 250/1000)."
+    ],
+    "expectations": []
+  },
+  "5.N.10.": {
+    "description": "Compare and order decimals (tenths, hundredths, thousandths) by using",
+    "achievementIndicators": [
+      "Order a set of decimals by placing them on a number line (vertical or horizontal) that contains benchmarks, 0.0, 0.5, 1.0.",
+      "Order a set of decimals including only tenths using place value.",
+      "Order a set of decimals including only hundredths using place value.",
+      "Order a set of decimals including only thousandths using place value.",
+      "Explain what is the same and what is different about 0.2, 0.20, and 0.200.",
+      "Order a set of decimals including tenths, hundredths, and thousandths using equivalent decimals."
+    ],
+    "expectations": [
+      "benchmarks",
+      "place value",
+      "equivalent decimals"
+    ]
+  },
+  "5.N.11.": {
+    "description": "Demonstrate an understanding of addition and subtraction of decimals (to thousandths), concretely, pictorially, and symbolically, by",
+    "achievementIndicators": [
+      "Estimate a sum or difference using front-end estimation (e.g., for 6.3 +0.25 + 306.158, think 6 + 306, so the sum is greater than 312) and place the decimal in the appropriate place.",
+      "Correct errors of decimal point placements in sums and differences without using paper and pencil.",
+      "Explain why keeping track of place value positions is important when adding and subtracting decimals.",
+      "Predict sums and differences of decimals using estimation strategies.",
+      "Solve a problem that involves addition and subtraction of decimals, to thousandths.",
+      "Model and explain the relationship that exists between an algorithm, place value, and number properties.",
+      "Determine the sum and difference using the standard algorithms of vertical addition and subtraction. (Numbers are arranged vertically with corresponding place value digits aligned.)",
+      "Refine personal strategies, such as mental math, to increase efficiency when appropriate (e.g., 3.36 + 9.65 think, 0.35 + 0.65 = 1.00, therefore, 0.36 + 0.65 = 1.01 and 3 + 9 = 12 for a total of 13.01)."
+    ],
+    "expectations": [
+      "using personal strategies",
+      "using the standard algorithms",
+      "using estimation",
+      "solving problems"
+    ]
+  },
+  "5.PR.1.": {
+    "description": "Determine the pattern rule to make predictions about subsequent elements.",
+    "achievementIndicators": [
+      "Extend a pattern with or without concrete materials, and explain how each element differs from the proceeding one.",
+      "Describe, orally or in writing, a pattern using mathematical language, such as one more, one less, five more.",
+      "Write a mathematical expression to represent a pattern, such as r + 1, r - 1, r + 5.",
+      "Describe the relationship in a table or chart using a mathematical expression.",
+      "Determine and explain why a number is or is not the next element in a pattern.",
+      "Predict subsequent elements in a pattern.",
+      "Solve a problem by using a pattern rule to determine subsequent elements.",
+      "Represent a pattern visually to verify predictions."
+    ],
+    "expectations": []
+  },
+  "5.PR.2.": {
+    "description": "Solve problems involving single-variable (expressed as symbols or letters), one-step equations with whole-number coefficients, and whole-number solutions.",
+    "achievementIndicators": [
+      "Express a problem in context as an equation where the unknown is represented by a letter variable.",
+      "Solve a single-variable equation with the unknown in any of the terms (e.g., n + 2 = 5, 4 + a = 7, 6 = r \u2013 2, 10 = 2c).",
+      "Create a problem in context for an equation."
+    ],
+    "expectations": []
+  },
+  "5.SS.1.": {
+    "description": "Design and construct different rectangles given either perimeter or area or both (whole numbers), and draw conclusions.",
+    "achievementIndicators": [
+      "Construct or draw two or more rectangles for a given perimeter in a problem-solving context.",
+      "Construct or draw two or more rectangles for a given area in a problem-solving context.",
+      "Illustrate that for any perimeter, the square or shape closest to a square will result in the greatest area.",
+      "Illustrate that for any perimeter, the rectangle with the smallest possible width will result in the least area.",
+      "Provide a real-life context for when it is important to consider the relationship between area and perimeter."
+    ],
+    "expectations": []
+  },
+  "5.SS.2.": {
+    "description": "Demonstrate an understanding of measuring length (mm) by",
+    "achievementIndicators": [
+      "Provide a referent for one millimetre and explain the choice.",
+      "Provide a referent for one centimetre and explain the choice.",
+      "Provide a referent for one metre and explain the choice.",
+      "Show that 10 millimetres is equivalent to 1 centimetre using concrete materials (e.g., ruler).",
+      "Show that 1000 millimetres is equivalent to 1 metre using concrete materials (e.g., metre stick).",
+      "Provide examples of when millimetres are used as the unit of measure."
+    ],
+    "expectations": [
+      "selecting and justifying referents for the unit mm",
+      "modelling and describing the relationship between mm and cm units, and between mm and m units"
+    ]
+  },
+  "5.SS.3.": {
+    "description": "Demonstrate an understanding of volume by",
+    "achievementIndicators": [
+      "Identify the cube as the most efficient unit for measuring volume and explain why.",
+      "Provide a referent for a cubic centimetre and explain the choice.",
+      "Provide a referent for a cubic metre and explain the choice.",
+      "Determine which standard cubic unit is represented by a given referent.",
+      "Estimate the volume of a 3-D object using personal referents.",
+      "Determine the volume of a 3-D object using manipulatives and explain the strategy.",
+      "Construct a rectangular prism for a given volume.",
+      "Explain that many rectangular prisms are possible for a given volume by constructing more than one rectangular prism for the same volume."
+    ],
+    "expectations": [
+      "selecting and justifying referents for cm\u00b3 or m\u00b3 units",
+      "estimating volume by using referents for cm\u00b3 or m\u00b3",
+      "measuring and recording volume (cm\u00b3 or m\u00b3)",
+      "constructing rectangular prisms for a given volume"
+    ]
+  },
+  "5.SS.4.": {
+    "description": "Demonstrate an understanding of capacity by",
+    "achievementIndicators": [
+      "Demonstrate that 1000 millilitres is equivalent to 1 litre by filling a 1-litre container using a combination of smaller containers.",
+      "Provide a referent for a litre and explain the choice.",
+      "Provide a referent for a millilitre and explain the choice.",
+      "Determine which capacity unit (mL or L) is represented by a given referent.",
+      "Estimate the capacity of a container using personal referents.",
+      "Determine the capacity of a container using materials that take the shape of the inside of the container (e.g., a liquid, rice, sand, beads), and explain the strategy."
+    ],
+    "expectations": [
+      "describing the relationship between mL and L",
+      "selecting and justifying referents for mL or L units",
+      "estimating capacity by using referents for mL or L",
+      "measuring and recording capacity (mL or L)"
+    ]
+  },
+  "5.SS.5.": {
+    "description": "Describe and provide examples of edges and faces of 3-D objects, and sides of 2-D shapes, that are",
+    "achievementIndicators": [
+      "Identify parallel, intersecting, perpendicular, vertical, and horizontal edges and faces on 3-D objects.",
+      "Identify parallel, intersecting, perpendicular, vertical, and horizontal sides on 2-D shapes.",
+      "Provide examples from the environment that show parallel, intersecting, perpendicular, vertical, and horizontal line segments.",
+      "Find examples of edges, faces, and sides that are parallel, intersecting, perpendicular, vertical, and horizontal in print and electronic media, such as newspapers, magazines, and the Internet.",
+      "Draw 2-D shapes or 3-D objects that have edges, faces, and sides that are parallel, intersecting, perpendicular, vertical, or horizontal.",
+      "Describe the faces and edges of a 3-D object using terms such as parallel, intersecting, perpendicular, vertical, or horizontal.",
+      "Describe the sides of a 2-D shape using terms such as parallel, intersecting, perpendicular, vertical, or horizontal."
+    ],
+    "expectations": [
+      "parallel",
+      "intersecting",
+      "perpendicular",
+      "vertical",
+      "horizontal"
+    ]
+  },
+  "5.SS.6.": {
+    "description": "Identify and sort quadrilaterals, including according to their attributes.",
+    "achievementIndicators": [
+      "Identify and describe the characteristics of a pre-sorted set of quadrilaterals.",
+      "Sort a set of quadrilaterals and explain the sorting rule.",
+      "Sort a set of quadrilaterals according to the lengths of the sides.",
+      "Sort a set of quadrilaterals according to whether or not opposite sides are parallel."
+    ],
+    "expectations": [
+      "rectangles",
+      "squares",
+      "trapezoids",
+      "parallelograms",
+      "rhombuses",
+      "according to their attributes."
+    ]
+  },
+  "5.SS.7.": {
+    "description": "Perform a single transformation (translation, rotation, or reflection) of a 2-D shape, and draw and describe the image.",
+    "achievementIndicators": [
+      "Translate a 2-D shape horizontally, vertically, or diagonally, and describe the position and orientation of the image.",
+      "Rotate a 2-D shape about a point, and describe the position and orientation of the image.",
+      "Reflect a 2-D shape in a line of reflection, and describe the position and orientation of the image.",
+      "Perform a transformation of a 2-D shape by following instructions.",
+      "Draw a 2-D shape, translate the shape, and record the translation by describing the direction and magnitude of the movement (e.g., the circle moved 3 cm to the left).",
+      "Draw a 2-D shape, rotate the shape, and describe the direction of the turn (clockwise or counter-clockwise), the fraction of the turn, and point of rotation.",
+      "Draw a 2-D shape, reflect the shape, and identify the line of reflection and the distance of the image from the line of reflection.",
+      "Predict the result of a single transformation of a 2-D shape and verify the prediction."
+    ],
+    "expectations": []
+  },
+  "5.SS.8.": {
+    "description": "Identify a single transformation (translation, rotation, or reflection) of 2-D shapes.",
+    "achievementIndicators": [
+      "Provide an example of a translation, a rotation, and a reflection.",
+      "Identify a single transformation as a translation, rotation, or reflection.",
+      "Describe a rotation by the direction of the turn (clockwise or counter-clockwise)."
+    ],
+    "expectations": []
+  },
+  "5.SP.1.": {
+    "description": "Differentiate between first-hand and second-hand data.",
+    "achievementIndicators": [
+      "Explain the difference between first-hand and second-hand data.",
+      "Formulate a question that can best be answered using first-hand data and explain why.",
+      "Formulate a question that can best be answered using second-hand data and explain why.",
+      "Find examples of second-hand data in print and electronic media, such as newspapers, magazines, and the Internet."
+    ],
+    "expectations": []
+  },
+  "5.SP.2.": {
+    "description": "Construct and interpret double bar graphs to draw conclusions.",
+    "achievementIndicators": [
+      "Determine the attributes (title, axes, intervals, and legend) of double bar graphs by comparing a set of double bar graphs.",
+      "Represent a set of data by creating a double bar graph, label the title and axes, and create a legend with or without the use of technology.",
+      "Draw conclusions from a double bar graph to answer questions.",
+      "Provide examples of double bar graphs used in a variety of print and electronic media, such as newspapers, magazines, and the Internet.",
+      "Solve a problem by constructing and interpreting a double bar graph."
+    ],
+    "expectations": []
+  },
+  "5.SP.3.": {
+    "description": "Describe the likelihood of a single outcome occurring, using words such as",
+    "achievementIndicators": [
+      "Provide examples of events that are impossible, possible, or certain from personal contexts.",
+      "Classify the likelihood of a single outcome occurring in a probability experiment as impossible, possible, or certain.",
+      "Design and conduct a probability experiment in which the likelihood of a single outcome occurring is impossible, possible, or certain.",
+      "Conduct a probability experiment a number of times, record the outcomes, and explain the results."
+    ],
+    "expectations": [
+      "impossible",
+      "possible",
+      "certain"
+    ]
+  },
+  "5.SP.4.": {
+    "description": "Compare the likelihood of two possible outcomes occurring, using words such as",
+    "achievementIndicators": [
+      "Identify outcomes from a probability experiment which are less likely, equally likely, or more likely to occur than other outcomes.",
+      "Design and conduct a probability experiment in which one outcome is less likely to occur than the other outcome.",
+      "Design and conduct a probability experiment in which one outcome is equally as likely to occur as the other outcome.",
+      "Design and conduct a probability experiment in which one outcome is more likely to occur than the other outcome."
+    ],
+    "expectations": [
+      "less likely",
+      "equally likely",
+      "more likely"
+    ]
+  },
+  "6.N.1.": {
+    "description": "Demonstrate an understanding of place value for numbers",
+    "achievementIndicators": [
+      "Explain how the pattern of the place value system (e.g., the repetition of ones, tens, and hundreds) makes it possible to read and write numerals for numbers of any magnitude.",
+      "Provide examples of where large numbers and small decimals are used (e.g., media, science, medicine, technology)."
+    ],
+    "expectations": [
+      "greater than one million",
+      "less than one-thousandth"
+    ]
+  },
+  "6.N.2.": {
+    "description": "Solve problems involving large numbers, using technology.",
+    "achievementIndicators": [
+      "Identify which operation is necessary to solve a problem and solve it.",
+      "Determine the reasonableness of an answer.",
+      "Estimate the answer and solve a problem.",
+      "Identify and correct errors in a solution to a problem that involves large numbers."
+    ],
+    "expectations": []
+  },
+  "6.N.3.": {
+    "description": "Demonstrate an understanding of factors and multiples by",
+    "achievementIndicators": [
+      "Identify multiples for a number and explain the strategy used to identify them.",
+      "Determine all the whole-number factors of a number using arrays.",
+      "Identify the factors for a number and explain the strategy used (e.g., concrete or visual representations, repeated division by prime numbers or factor trees).",
+      "Identify common factors and common multiples for 2 or 3 numbers.",
+      "Provide an example of a prime number and explain why it is a prime number.",
+      "Provide an example of a composite number and explain why it is a composite number.",
+      "Sort a set of numbers as prime and composite.",
+      "Solve a problem involving factors, multiples, the largest common factor or the lowest common multiple.",
+      "Explain why 0 and 1 are neither prime nor composite."
+    ],
+    "expectations": [
+      "determining multiples and factors of numbers less than 100",
+      "identifying prime and composite numbers",
+      "solving problems involving factors or multiples"
+    ]
+  },
+  "6.N.4.": {
+    "description": "Relate improper fractions to mixed numbers.",
+    "achievementIndicators": [
+      "Demonstrate using models that an improper fraction represents a number greater than 1.",
+      "Express improper fractions as mixed numbers.",
+      "Express mixed numbers as improper fractions.",
+      "Place a set of fractions, including mixed numbers and improper fractions, on a horizontal or vertical number line, and explain strategies used to determine position."
+    ],
+    "expectations": []
+  },
+  "6.N.5.": {
+    "description": "Demonstrate an understanding of ratio, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Provide a concrete or pictorial representation for a ratio.",
+      "Write a ratio from a concrete or pictorial representation.",
+      "Express a ratio in multiple forms, such as 3:5, 3/5, or 3 to 5.",
+      "Identify and describe ratios from real-life contexts and record them symbolically.",
+      "Explain the part/whole and part/part ratios of a set (e.g., for a group of 3 girls and 5 boys, explain the ratios 3:5, 3:8, and 5:8).",
+      "Solve a problem involving ratio."
+    ],
+    "expectations": []
+  },
+  "6.N.6.": {
+    "description": "Demonstrate an understanding of percent (limited to whole numbers), concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Explain that \"percent\" means \"out of 100.\"",
+      "Explain that percent is the ratio of a certain number of units to 100 units.",
+      "Use concrete materials and pictorial representations to illustrate a percent.",
+      "Record the percent displayed in a concrete or pictorial representation.",
+      "Express a percent as a fraction and a decimal.",
+      "Identify and describe percents from real-life contexts and record them symbolically.",
+      "Solve a problem involving percents."
+    ],
+    "expectations": []
+  },
+  "6.N.7.": {
+    "description": "Demonstrate an understanding of integers, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Extend a horizontal or vertical number line by adding numbers less than zero and explain the pattern on each side of zero.",
+      "Place a set of integers on a horizontal or vertical number line and explain how integers are ordered.",
+      "Describe contexts in which integers are used (e.g., on a thermometer).",
+      "Compare two integers, represent their relationship using the symbols <, >, and =, and verify using a horizontal or vertical number line.",
+      "Order a set of integers in ascending or descending order."
+    ],
+    "expectations": []
+  },
+  "6.N.8.": {
+    "description": "Demonstrate an understanding of multiplication and division of decimals (involving 1-digit whole-number multipliers, 1-digit natural number divisors, and multipliers and divisors that are multiples of 10), concretely, pictorially, and symbolically, by",
+    "achievementIndicators": [
+      "Estimate a product using front-end estimation (e.g., for 15.205 m x 4, think 15 m x 4, so the product is greater than 60 m), and place the decimal in the appropriate place.",
+      "Estimate a quotient using front-end estimation (e.g., for $26.83 \u00f7 4, think 24 \u00f7 4, so the quotient is greater than $6), and place the decimal in the appropriate place.",
+      "Predict products and quotients of decimals using estimation strategies.",
+      "Identify and correct errors of decimal point placement in a product or quotient by estimating.",
+      "Solve a problem that involves multiplication and division of decimals using multipliers from 0 to 9 and divisors from 1 to 9.",
+      "Use mental math to determine products or quotients involving decimals when the multiplier or divisor is a multiple of 10 (e.g., 2.47 \u00d7 10 = 24.7; 31.9 \u00f7 100 = 0.319).",
+      "Model and explain the relationship that exists between an algorithm, place value, and number properties.",
+      "Determine products and quotients using the standard algorithms of vertical multiplication (numbers arranged vertically and multiplied using single digits which are added to form a final product) and long division (the multiples of the divisor are subtracted from the dividend).",
+      "Solve multiplication and division problems in context using personal strategies, and record the process.",
+      "Refine personal strategies, such as mental math, to increase their efficiency when appropriate (e.g., 4.46 \u00f7 2 think 446 \u00f7 2 = 223, and then use front-end estimation to determine the placement of the decimal 2.23)."
+    ],
+    "expectations": [
+      "using personal strategies",
+      "using the standard algorithms",
+      "using estimation",
+      "solving problems"
+    ]
+  },
+  "6.N.9.": {
+    "description": "Explain and apply the order of operations, excluding exponents (limited to whole numbers).",
+    "achievementIndicators": [
+      "Demonstrate and explain with examples why there is a need to have a standardized order of operations.",
+      "Apply the order of operations to solve multi-step problems with or without technology."
+    ],
+    "expectations": []
+  },
+  "6.PR.1.": {
+    "description": "Demonstrate an understanding of the relationships within tables of values to solve problems.",
+    "achievementIndicators": [
+      "Generate values in one column of a table of values, values in the other column, and a pattern rule.",
+      "State, using mathematical language, the relationship in a table of values.",
+      "Create a concrete or pictorial representation of the relationship shown in a table of values.",
+      "Predict the value of an unknown term using the relationship in a table of values and verify the prediction.",
+      "Formulate a rule to describe the relationship between two columns of numbers in a table of values.",
+      "Identify missing elements in a table of values.",
+      "Identify and correct errors in a table of values.",
+      "Describe the pattern within each column of a table of values.",
+      "Create a table of values to record and reveal a pattern to solve a problem."
+    ],
+    "expectations": []
+  },
+  "6.PR.2.": {
+    "description": "Represent and describe patterns and relationships using graphs and tables.",
+    "achievementIndicators": [
+      "Translate a pattern to a table of values and graph the table of values (limit to linear graphs with discrete elements).",
+      "Create a table of values from a pattern or a graph.",
+      "Describe, using everyday language, orally or in writing, the relationship shown on a graph."
+    ],
+    "expectations": []
+  },
+  "6.PR.3.": {
+    "description": "Represent generalizations arising from number relationships using equations with letter variables.",
+    "achievementIndicators": [
+      "Write and explain the formula for finding the perimeter of any rectangle.",
+      "Write and explain the formula for finding the area of any rectangle.",
+      "Develop and justify equations using letter variables that illustrate the commutative property of addition and multiplication (e.g., a + b = b + a or a \u00d7 b = b \u00d7 a).",
+      "Describe the relationship in a table using a mathematical expression.",
+      "Represent a pattern rule using a simple mathematical expression, such as 4d or 2n + 1."
+    ],
+    "expectations": []
+  },
+  "6.PR.4.": {
+    "description": "Demonstrate and explain the meaning of preservation of equality, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Model the preservation of equality for addition using concrete materials, such as a balance or using pictorial representations, and orally explain the process.",
+      "Model the preservation of equality for subtraction using concrete materials, such as a balance or using pictorial representations, and orally explain the process.",
+      "Model the preservation of equality for multiplication using concrete materials, such as a balance or using pictorial representations, and orally explain the process.",
+      "Model the preservation of equality for division using concrete materials, such as a balance or using pictorial representations, and orally explain the process.",
+      "Write equivalent forms of an equation by applying the preservation of equality, and verify using concrete materials [e.g., 3b = 12 is the same as 3b + 5 = 12 + 5 or 2r = 7 is the same as 3(2r) = 3(7)]."
+    ],
+    "expectations": []
+  },
+  "6.SS.1.": {
+    "description": "Demonstrate an understanding of angles by",
+    "achievementIndicators": [
+      "Provide examples of angles found in the environment.",
+      "Classify a set of angles according to their measure (e.g., acute, right, obtuse, straight, reflex).",
+      "Sketch 45\u00b0, 90\u00b0, and 180\u00b0 angles without the use of a protractor, and describe the relationship among them.",
+      "Estimate the measure of an angle using 45\u00b0, 90\u00b0, and 180\u00b0 as reference angles.",
+      "Measure, using a protractor, angles in various orientations.",
+      "Draw and label an angle in various orientations using a protractor.",
+      "Describe the measure of an angle as the measure of rotation of one of its sides.",
+      "Describe the measure of angles as the measure of an interior angle of a polygon."
+    ],
+    "expectations": [
+      "identifying examples of angles in the environment",
+      "classifying angles according to their measure",
+      "estimating the measure of angles using 45\u00b0, 90\u00b0, and 180\u00b0 as reference angles",
+      "determining angle measures in degrees",
+      "drawing and labelling angles when the measure is specified"
+    ]
+  },
+  "6.SS.2.": {
+    "description": "Demonstrate that the sum of interior angles is",
+    "achievementIndicators": [
+      "Explain, using models, that the sum of the interior angles of a triangle is the same for all triangles.",
+      "Explain, using models, that the sum of the interior angles of a quadrilateral is the same for all quadrilaterals."
+    ],
+    "expectations": [
+      "180\u00b0 in a triangle",
+      "360\u00b0 in a quadrilateral"
+    ]
+  },
+  "6.SS.3.": {
+    "description": "Develop and apply a formula for determining the",
+    "achievementIndicators": [
+      "Explain, using models, how the perimeter of any polygon can be determined.",
+      "Generalize a rule for determining the perimeter of polygons.",
+      "Explain, using models, how the area of any rectangle can be determined.",
+      "Generalize a rule for determining the area of rectangles.",
+      "Explain, using models, how the volume of any right rectangular prism can be determined.",
+      "Generalize a rule for determining the volume of right rectangular prisms.",
+      "Solve a problem involving the perimeter of polygons, the area of rectangles, or the volume of right rectangular prisms."
+    ],
+    "expectations": [
+      "perimeter of polygons",
+      "area of rectangles",
+      "volume of right rectangular prisms"
+    ]
+  },
+  "6.SS.4.": {
+    "description": "Construct and compare triangles, including",
+    "achievementIndicators": [
+      "Sort a set of triangles according to the length of the sides.",
+      "Sort a set of triangles according to the measures of the interior angles.",
+      "Identify the characteristics of a set of triangles according to their sides or their interior angles.",
+      "Sort a set of triangles and explain the sorting rule.",
+      "Draw a triangle (e.g., scalene).",
+      "Replicate a triangle in a different orientation and show that the two are congruent."
+    ],
+    "expectations": [
+      "scalene",
+      "isosceles",
+      "equilateral",
+      "right",
+      "obtuse",
+      "acute",
+      "in different orientations."
+    ]
+  },
+  "6.SS.5.": {
+    "description": "Describe and compare the sides and angles of regular and irregular polygons.",
+    "achievementIndicators": [
+      "Sort a set of 2-D shapes into polygons and non-polygons, and explain the sorting rule.",
+      "Demonstrate congruence (sides to sides and angles to angles) in a regular polygon by superimposing.",
+      "Demonstrate congruence (sides to sides and angles to angles) in a regular polygon by measuring.",
+      "Demonstrate that the sides of a regular polygon are of the same length and that the angles of a regular polygon are of the same measure.",
+      "Sort a set of polygons as regular or irregular and justify the sorting.",
+      "Identify and describe regular and irregular polygons in the environment."
+    ],
+    "expectations": []
+  },
+  "6.SS.6.": {
+    "description": "Perform a combination of transformations (translations, rotations, or reflections) on a single 2-D shape, and draw and describe the image.",
+    "achievementIndicators": [
+      "Demonstrate that a 2-D shape and its transformation image are congruent.",
+      "Model a set of successive translations, successive rotations, or successive reflections of a 2-D shape.",
+      "Model a combination of two different types of transformations of a 2-D shape.",
+      "Draw and describe a 2-D shape and its image, given a combination of transformations.",
+      "Describe the transformations performed on a 2-D shape to produce a given image.",
+      "Model a set of successive transformations (translation, rotation, or reflection) of a 2-D shape.",
+      "Perform and record one or more transformations of a 2-D shape that will result in a given image."
+    ],
+    "expectations": []
+  },
+  "6.SS.7.": {
+    "description": "Perform a combination of successive transformations of 2-D shapes to create a design, and identify and describe the transformations.",
+    "achievementIndicators": [
+      "Analyze a design created by transforming one or more 2-D shapes, and identify the original shape and the transformations used to create the design.",
+      "Create a design using one or more 2-D shapes and describe the transformations used."
+    ],
+    "expectations": []
+  },
+  "6.SS.8.": {
+    "description": "Identify and plot points in the first quadrant of a Cartesian plane using whole-number ordered pairs.",
+    "achievementIndicators": [
+      "Label the axes of the first quadrant of a Cartesian plane and identify the origin.",
+      "Plot a point in the first quadrant of a Cartesian plane given its ordered pair.",
+      "Match points in the first quadrant of a Cartesian plane with their corresponding ordered pair.",
+      "Plot points in the first quadrant of a Cartesian plane with intervals of 1, 2, 5, or 10 on its axes, given whole-number ordered pairs.",
+      "Draw shapes or designs, given ordered pairs in the first quadrant of a Cartesian plane.",
+      "Determine the distance between points along horizontal and vertical lines in the first quadrant of a Cartesian plane.",
+      "Draw shapes or designs in the first quadrant of a Cartesian plane and identify the points used to produce them."
+    ],
+    "expectations": []
+  },
+  "6.SS.9.": {
+    "description": "Perform and describe single transformations of a 2-D shape in the first quadrant of a Cartesian plane (limited to whole-number vertices).",
+    "achievementIndicators": [
+      "Identify the coordinates of the vertices of a 2-D shape (limited to the first quadrant of a Cartesian plane).",
+      "Perform a transformation on a given 2-D shape and identify the coordinates of the vertices of the image (limited to the first quadrant).",
+      "Describe the positional change of the vertices of a 2-D shape to the corresponding vertices of its image as a result of a transformation (limited to first quadrant)."
+    ],
+    "expectations": []
+  },
+  "6.SP.1.": {
+    "description": "Create, label, and interpret line graphs to draw conclusions.",
+    "achievementIndicators": [
+      "Determine the common attributes (title, axes, and intervals) of line graphs by comparing a set of line graphs.",
+      "Determine whether a set of data can be represented by a line graph (continuous data) or a series of points (discrete data), and explain why.",
+      "Create a line graph from a table of values or set of data.",
+      "Interpret a line graph to draw conclusions."
+    ],
+    "expectations": []
+  },
+  "6.SP.2.": {
+    "description": "Select, justify, and use appropriate methods of collecting data, including",
+    "achievementIndicators": [
+      "Select a method for collecting data to answer a question, and justify the choice.",
+      "Design and administer a questionnaire for collecting data to answer a question and record the results.",
+      "Answer a question by performing an experiment, recording the results, and drawing a conclusion.",
+      "Explain when it is appropriate to use a database as a source of data.",
+      "Gather data for a question by using electronic media, including selecting data from databases."
+    ],
+    "expectations": [
+      "questionnaires",
+      "experiments",
+      "databases",
+      "electronic media"
+    ]
+  },
+  "6.SP.3.": {
+    "description": "Graph collected data and analyze the graph to solve problems.",
+    "achievementIndicators": [
+      "Select a type of graph for displaying a set of collected data, and justify the choice of graph.",
+      "Solve a problem by graphing data and interpreting the resulting graph."
+    ],
+    "expectations": []
+  },
+  "6.SP.4.": {
+    "description": "Demonstrate an understanding of probability by",
+    "achievementIndicators": [
+      "List the possible outcomes of a probability experiment, such as",
+      "tossing a coin",
+      "rolling a die with any number of sides",
+      "spinning a spinner with any number of sectors",
+      "Determine the theoretical probability of an outcome occurring for a probability experiment.",
+      "Predict the probability of an outcome occurring for a probability experiment by using theoretical probability.",
+      "Conduct a probability experiment, with or without technology, and compare the experimental results to the theoretical probability.",
+      "Explain that as the number of trials in a probability experiment increases, the experimental probability approaches theoretical probability of a particular outcome.",
+      "Distinguish between theoretical probability and experimental probability, and explain the differences."
+    ],
+    "expectations": [
+      "identifying all possible outcomes of a probability experiment",
+      "differentiating between experimental and theoretical probability",
+      "determining the theoretical probability of outcomes in a probability experiment",
+      "determining the experimental probability of outcomes in a probability experiment",
+      "comparing experimental results with the theoretical probability for an experiment"
+    ]
+  },
+  "7.N.1": {
+    "description": "Determine and explain why a number is divisible by 2, 3, 4, 5, 6, 8, 9, or 10, and why a number cannot be divided by 0.",
+    "achievementIndicators": [
+      "Determine if a number is divisible by 2, 3, 4, 5, 6, 8, 9, or 10, and explain why.",
+      "Sort a set of numbers based upon their divisibility using organizers, such as Venn or Carroll diagrams.",
+      "Determine the factors of a number using the divisibility rules.",
+      "Explain, using an example, why numbers cannot be divided by 0."
+    ],
+    "expectations": []
+  },
+  "7.N.2": {
+    "description": "Demonstrate an understanding of the addition, subtraction, multiplication, and division of decimals to solve problems (for more than 1-digit divisors or 2-digit multipliers, technology could be used).",
+    "achievementIndicators": [
+      "Solve a problem involving the addition of two or more decimal numbers.",
+      "Solve a problem involving the subtraction of decimal numbers.",
+      "Solve a problem involving the multiplication or division of decimal numbers (for more than 1-digit divisors or 2-digit multipliers, technology could be used).",
+      "Place the decimal in a sum or difference using front-end estimation (e.g., for 4.5 + 0.73 + 256.458, think 4 + 256, so the sum is greater than 260).",
+      "Place the decimal in a product using front-end estimation (e.g., for $12.33 x 2.4, think $12 \u00d7 2, so the product is greater than $24).",
+      "Place the decimal in a quotient using front-end estimation (e.g., for 51.50 m \u00f7 2.1, think 50 m \u00f7 2, so the quotient is approximately 25 m).",
+      "Check the reasonableness of answers using estimation.",
+      "Solve a problem that involves operations on decimals (limited to thousandths), taking into consideration the order of operations.",
+      "Explain, using an example, how to use mental math for products or quotients when the multiplier or the divisor is 0.1 or 0.5 or 0.25."
+    ],
+    "expectations": []
+  },
+  "7.N.3": {
+    "description": "Solve problems involving percents from 1% to 100%.",
+    "achievementIndicators": [
+      "Express a percent as a decimal or fraction.",
+      "Solve a problem that involves finding a percent.",
+      "Determine the answer to a percent problem where the answer requires rounding, and explain why an approximate answer is needed (e.g., total cost including taxes)."
+    ],
+    "expectations": []
+  },
+  "7.N.4": {
+    "description": "Demonstrate an understanding of the relationship between repeating decimals and fractions, and terminating decimals and fractions.",
+    "achievementIndicators": [
+      "Predict the decimal representation of a fraction using patterns (e.g., 1/11 = 0.09, 2/11 = 0.18, 3/11 = ? ...).",
+      "Match a set of fractions to their decimal representations.",
+      "Sort a set of fractions as repeating or terminating decimals.",
+      "Express a fraction as a terminating or repeating decimal.",
+      "Express a repeating decimal as a fraction.",
+      "Express a terminating decimal as a fraction.",
+      "Provide an example where the decimal representation of a fraction is an approximation of its exact value."
+    ],
+    "expectations": []
+  },
+  "7.N.5": {
+    "description": "Demonstrate an understanding of adding and subtracting positive fractions and mixed numbers, with like and unlike denominators, concretely, pictorially, and symbolically (limited to positive sums and differences).",
+    "achievementIndicators": [
+      "Model addition and subtraction of positive fractions or mixed numbers using concrete representations, and record symbolically.",
+      "Determine the sum of two positive fractions or mixed numbers with like denominators.",
+      "Determine the difference of two positive fractions or mixed numbers with like denominators.",
+      "Determine a common denominator for a set of positive fractions or mixed numbers.",
+      "Determine the sum of two positive fractions or mixed numbers with unlike denominators.",
+      "Determine the difference of two positive fractions or mixed numbers with unlike denominators.",
+      "Simplify a positive fraction or mixed number by identifying the common factor between the numerator and denominator.",
+      "Simplify the solution to a problem involving the sum or difference of two positive fractions or mixed numbers.",
+      "Solve a problem involving the addition or subtraction of positive fractions or mixed numbers, and determine if the solution is reasonable."
+    ],
+    "expectations": []
+  },
+  "7.N.6": {
+    "description": "Demonstrate an understanding of addition and subtraction of integers, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Explain, using concrete materials such as integer tiles and diagrams, that the sum of opposite integers is equal to zero.",
+      "Illustrate, using a horizontal or vertical number line, the results of adding or subtracting negative and positive integers (e.g., a move in one direction followed by an equivalent move in the opposite direction results in no net change in position).",
+      "Add two integers using concrete materials or pictorial representations, and record the process symbolically.",
+      "Subtract two integers using concrete materials or pictorial representations, and record the process symbolically.",
+      "Solve a problem involving the addition and subtraction of integers."
+    ],
+    "expectations": []
+  },
+  "7.N.7": {
+    "description": "Compare and order fractions, decimals (to thousandths), and integers by using",
+    "achievementIndicators": [
+      "Order the numbers of a set that includes fractions, decimals, or integers in ascending or descending order, and verify the result using a variety of strategies.",
+      "Identify a number that would be between two numbers in an ordered sequence or on a horizontal or vertical number line.",
+      "Identify incorrectly placed numbers in an ordered sequence or on a horizontal or vertical number line.",
+      "Position fractions with like and unlike denominators from a set on a horizontal or vertical number line, and explain strategies used to determine order.",
+      "Order the numbers of a set by placing them on a horizontal or vertical number line that contains benchmarks, such as 0 and 1 or 0 and 5.",
+      "Position a set of fractions, including mixed numbers and improper fractions, on a horizontal or vertical number line, and explain strategies used to determine position."
+    ],
+    "expectations": [
+      "benchmarks",
+      "place value",
+      "equivalent fractions and/or decimals"
+    ]
+  },
+  "7.PR.1": {
+    "description": "Demonstrate an understanding of oral and written patterns and their corresponding relations.",
+    "achievementIndicators": [
+      "Formulate a relation to represent the relationship in an oral or written pattern.",
+      "Provide a context for a relation that represents a pattern.",
+      "Represent a pattern in the environment using a relation."
+    ],
+    "expectations": []
+  },
+  "7.PR.2": {
+    "description": "Construct a table of values from a relation, graph the table of values, and analyze the graph to draw conclusions and solve problems.",
+    "achievementIndicators": [
+      "Create a table of values for a relation by substituting values for the variable.",
+      "Create a table of values using a relation, and graph the table of values (limited to discrete elements).",
+      "Sketch the graph from a table of values created for a relation, and describe the patterns found in the graph to draw conclusions (e.g., graph the relationship between n and 2n + 3).",
+      "Describe the relationship shown on a graph using everyday language in spoken or written form to solve problems.",
+      "Match a set of relations to a set of graphs.",
+      "Match a set of graphs to a set of relations."
+    ],
+    "expectations": []
+  },
+  "7.PR.3": {
+    "description": "Demonstrate an understanding of preservation of equality by",
+    "achievementIndicators": [
+      "Model the preservation of equality for addition, subtraction, multiplication, or division using concrete materials or using pictorial representations, explain the process orally, and record it symbolically.",
+      "Solve a problem by applying preservation of equality."
+    ],
+    "expectations": [
+      "modelling preservation of equality, concretely, pictorially, and symbolically",
+      "applying preservation of equality to solve equations"
+    ]
+  },
+  "7.PR.4": {
+    "description": "Explain the difference between an expression and an equation.",
+    "achievementIndicators": [
+      "Identify and provide an example of a constant term, a numerical coefficient, and a variable in an expression and an equation.",
+      "Explain what a variable is and how it is used in an expression.",
+      "Provide an example of an expression and an equation, and explain how they are similar and different."
+    ],
+    "expectations": []
+  },
+  "7.PR.5": {
+    "description": "Evaluate an expression given the value of the variable(s).",
+    "achievementIndicators": [
+      "Substitute a value for each unknown in an expression and evaluate the expression."
+    ],
+    "expectations": []
+  },
+  "7.PR.6": {
+    "description": "Model and solve problems that can be represented by one-step linear equations of the form x + a = b, concretely, pictorially, and symbolically, where a and b are integers.",
+    "achievementIndicators": [
+      "Represent a problem with a linear equation and solve the equation using concrete models.",
+      "Draw a visual representation of the steps required to solve a linear equation.",
+      "Solve a problem using a linear equation.",
+      "Verify the solution to a linear equation using concrete materials or diagrams.",
+      "Substitute a possible solution for the variable in a linear equation to verify the equality."
+    ],
+    "expectations": []
+  },
+  "7.PR.7": {
+    "description": "Model and solve problems that can be represented by linear equations of the form: concretely, pictorially, and symbolically, where a, b, and c, are whole numbers.",
+    "achievementIndicators": [
+      "Model a problem with a linear equation and solve the equation using concrete models.",
+      "Draw a visual representation of the steps used to solve a linear equation.",
+      "Solve a problem using a linear equation and record the process.",
+      "Verify the solution to a linear equation using concrete materials or diagrams.",
+      "Substitute a possible solution for the variable in a linear equation to verify the equality."
+    ],
+    "expectations": [
+      "ax + b = c",
+      "ax = b",
+      "x/a = b, a\u22600"
+    ]
+  },
+  "7.SS.1": {
+    "description": "Demonstrate an understanding of circles by",
+    "achievementIndicators": [
+      "Illustrate and explain that the diameter is twice the radius in a circle.",
+      "Illustrate and explain that the circumference is approximately three times the diameter in a circle.",
+      "Explain that, for all circles, pi (\u03c0) is the ratio of the circumference to the diameter (C/d), and its value is approximately 3.14.",
+      "Explain, using an illustration, that the sum of the central angles of a circle is 360\u00b0.",
+      "Draw a circle with a given radius or diameter with or without a compass.",
+      "Solve a contextual problem involving circles."
+    ],
+    "expectations": [
+      "describing the relationships among radius, diameter, and circumference of circles",
+      "relating circumference to pi (\u03c0)",
+      "determining the sum of the central angles",
+      "constructing circles with a given radius or diameter",
+      "solving problems involving the radii, diameters, and circumferences of circles"
+    ]
+  },
+  "7.SS.2": {
+    "description": "Develop and apply a formula for determining the area of",
+    "achievementIndicators": [
+      "Illustrate and explain how the area of a rectangle can be used to determine the area of a triangle.",
+      "Generalize a rule to create a formula for determining the area of triangles.",
+      "Illustrate and explain how the area of a rectangle can be used to determine the area of a parallelogram.",
+      "Generalize a rule to create a formula for determining the area of parallelograms.",
+      "Illustrate and explain how to estimate the area of a circle without the use of a formula.",
+      "Apply a formula for determining the area of a circle.",
+      "Solve a problem involving the area of triangles, parallelograms, or circles."
+    ],
+    "expectations": [
+      "triangles",
+      "parallelograms",
+      "circles"
+    ]
+  },
+  "7.SS.3": {
+    "description": "Perform geometric constructions, including",
+    "achievementIndicators": [
+      "Describe examples of parallel line segments, perpendicular line segments, perpendicular bisectors, and angle bisectors in the environment.",
+      "Identify line segments on a diagram that are parallel or perpendicular.",
+      "Draw a line segment perpendicular to another line segment, and explain why they are perpendicular.",
+      "Draw a line segment parallel to another line segment, and explain why they are parallel.",
+      "Draw the bisector of an angle using more than one method, and verify that the resulting angles are equal.",
+      "Draw the perpendicular bisector of a line segment using more than one method, and verify the construction."
+    ],
+    "expectations": [
+      "perpendicular line segments",
+      "parallel line segments",
+      "perpendicular bisectors",
+      "angle bisectors"
+    ]
+  },
+  "7.SS.4": {
+    "description": "Identify and plot points in the four quadrants of a Cartesian plane using ordered pairs.",
+    "achievementIndicators": [
+      "Label the axes of a Cartesian plane and identify the origin.",
+      "Identify the location of a point in any quadrant of a Cartesian plane using an ordered pair.",
+      "Plot the point corresponding to a ordered pair on a Cartesian plane with units of 1, 2, 5, or 10 on its axes.",
+      "Draw shapes and designs, using ordered pairs, in a Cartesian plane.",
+      "Create shapes and designs in a Cartesian plane and identify the points used."
+    ],
+    "expectations": []
+  },
+  "7.SS.5": {
+    "description": "Perform and describe transformations of a 2-D shape in all four quadrants of a Cartesian plane (limited to integral vertices).",
+    "achievementIndicators": [
+      "Identify the coordinates of the vertices of a 2-D shape on a Cartesian plane.",
+      "Describe the horizontal and vertical movement required to move from a given point to another point on a Cartesian plane.",
+      "Describe the positional change of the vertices of a 2-D shape to the corresponding vertices of its image as a result of a transformation or successive transformations on a Cartesian plane.",
+      "Perform a transformation or consecutive transformations on a 2-D shape, and identify coordinates of the vertices of the image.",
+      "Describe the image resulting from the transformation of a 2-D shape on a Cartesian plane by comparing the coordinates of the vertices of the image."
+    ],
+    "expectations": []
+  },
+  "7.SP.1": {
+    "description": "Demonstrate an understanding of central tendency and range by",
+    "achievementIndicators": [
+      "Determine mean, median, and mode for a set of data, and explain why these values may be the same or different.",
+      "Determine the range of a set of data.",
+      "Provide a context in which the mean, median, or mode is the most appropriate measure of central tendency to use when reporting findings.",
+      "Solve a problem involving the measures of central tendency."
+    ],
+    "expectations": [
+      "determining the measures of central tendency (mean, median, mode) and range",
+      "determining the most appropriate measures of central tendency to report findings"
+    ]
+  },
+  "7.SP.2": {
+    "description": "Determine the effect on the mean, median, and mode when an outlier is included in a data set.",
+    "achievementIndicators": [
+      "Analyze a set of data to identify any outliers.",
+      "Explain the effect of outliers on the measures of central tendency for a data set.",
+      "Identify outliers in a set of data and justify whether or not they are to be included in the reporting of the measures of central tendency.",
+      "Provide examples of situations in which outliers would or would not be used in determining the measures of central tendency."
+    ],
+    "expectations": []
+  },
+  "7.SP.3": {
+    "description": "Construct, label, and interpret circle graphs to solve problems.",
+    "achievementIndicators": [
+      "Identify common attributes of circle graphs, such as title, label, or legend; the sum of the central angles is 360\u00b0; the data is reported as a percent of the total and the sum of the percents is equal to 100%.",
+      "Create and label a circle graph, with or without technology, to display a set of data.",
+      "Find and compare circle graphs in a variety of print and electronic media, such as newspapers, magazines, and the Internet.",
+      "Translate percentages displayed in a circle graph into quantities to solve a problem.",
+      "Interpret a circle graph to answer questions."
+    ],
+    "expectations": []
+  },
+  "7.SP.4": {
+    "description": "Express probabilities as ratios, fractions, and percents.",
+    "achievementIndicators": [
+      "Determine the probability of an outcome occurring for a probability experiment, and express it as a ratio, fraction, or percent.",
+      "Provide an example of an event with a probability of 0 or 0% (impossible) and an event with a probability of 1 or 100% (certain)."
+    ],
+    "expectations": []
+  },
+  "7.SP.5": {
+    "description": "Identify the sample space (where the combined sample space has 36 or fewer elements) for a probability experiment involving two independent events.",
+    "achievementIndicators": [
+      "Provide an example of two independent events, such as spinning a four-section spinner and an eight-sided die; tossing a coin and rolling a twelve-sided die; tossing two coins; rolling two dice, and explain why they are independent.",
+      "Identify the sample space (all possible outcomes) for an experiment involving two independent events using a tree diagram, table, or another graphic organizer."
+    ],
+    "expectations": []
+  },
+  "7.SP.6": {
+    "description": "Conduct a probability experiment to compare the theoretical probability (determined using a tree diagram, table, or another graphic organizer) and experimental probability of two independent events.",
+    "achievementIndicators": [
+      "Determine the theoretical probability of an outcome for an experiment involving two independent events.",
+      "Conduct a probability experiment for an outcome involving two independent events, with or without technology, to compare the experimental probability to the theoretical probability.",
+      "Solve a probability problem involving two independent events."
+    ],
+    "expectations": []
+  },
+  "8.N.1": {
+    "description": "Demonstrate an understanding of perfect squares and square roots, concretely, pictorially, and symbolically (limited to whole numbers).",
+    "achievementIndicators": [
+      "Represent a perfect square as a square region using materials, such as grid paper or square shapes.",
+      "Determine the factors of a perfect square, and explain why one of the factors is the square root and the others are not.",
+      "Determine whether or not a number is a perfect square using materials and strategies such as square shapes, grid paper, or prime factorization, and explain the reasoning.",
+      "Determine the square root of a perfect square, and record it symbolically.",
+      "Determine the square of a number."
+    ],
+    "expectations": []
+  },
+  "8.N.2": {
+    "description": "Determine the approximate square root of numbers that are not perfect squares (limited to whole numbers).",
+    "achievementIndicators": [
+      "Estimate the square root of a number that is not a perfect square using the roots of perfect squares as benchmarks.",
+      "Approximate the square root of a number that is not a perfect square using technology (e.g., calculator, computer).",
+      "Explain why the square root of a number shown on a calculator may be an approximation.",
+      "Identify a number with a square root that is between two given numbers."
+    ],
+    "expectations": []
+  },
+  "8.N.3": {
+    "description": "Demonstrate an understanding of percents greater than or equal to 0%.",
+    "achievementIndicators": [
+      "Provide a context where a percent may be more than 100% or between 0% and 1%.",
+      "Represent a fractional percent using grid paper.",
+      "Represent a percent greater than 100% using grid paper.",
+      "Determine the percent represented by a shaded region on a grid, and record it in decimal, fractional, or percent form.",
+      "Express a percent in decimal or fractional form.",
+      "Express a decimal in percent or fractional form.",
+      "Express a fraction in decimal or percent form.",
+      "Solve a problem involving percents.",
+      "Solve a problem involving combined percents (e.g., addition of percents, such as GST + PST).",
+      "Solve a problem that involves finding the percent of a percent (e.g., A population increased by 10% one year and then increased by 15% the next year. Explain why there was not a 25% increase in population over the two years)."
+    ],
+    "expectations": []
+  },
+  "8.N.4": {
+    "description": "Demonstrate an understanding of ratio and rate.",
+    "achievementIndicators": [
+      "Express a two-term ratio from a context in the forms 3:5 or 3 to 5.",
+      "Express a three-term ratio from a context in the forms 4:7:3 or 4 to 7 to 3.",
+      "Express a part-to-part ratio as a part to whole ratio (e.g., Given the ratio of frozen juice to water is 1 can to 4 cans, this can be written as 1/4 or 1:4 or 1 to 4, [part-to-part ratio]. Related part-to-whole ratios are + or 1:5 or 1 to 5, which is the ratio of juice to solution, or, or 4:5 or 4 to 5, which is the ratio of water to solution).",
+      "Identify and describe ratios and rates from real-life examples, and record them symbolically.",
+      "Express a rate using words or symbols (e.g., 20 L per 100 km or 20 L/100 km).",
+      "Express a ratio as a percent, and explain why a rate cannot be represented as a percent."
+    ],
+    "expectations": []
+  },
+  "8.N.5": {
+    "description": "Solve problems that involve rates, ratios, and proportional reasoning.",
+    "achievementIndicators": [
+      "Explain the meaning of within a context.",
+      "Provide a context in which represents a fraction, rate, ratio, quotient, probability.",
+      "Solve a problem involving rate, ratio, or percent."
+    ],
+    "expectations": []
+  },
+  "8.N.6": {
+    "description": "Demonstrate an understanding of multiplying and dividing positive fractions and mixed numbers, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Identify the operation(s) required to solve a problem involving positive fractions.",
+      "Provide a context involving the multiplying of two positive fractions.",
+      "Provide a context involving the dividing of two positive fractions.",
+      "Express a positive mixed number as an improper fraction and a positive improper fraction as a mixed number.",
+      "Model multiplication of a positive fraction by a whole number, concretely or pictorially, and record the process.",
+      "Model multiplication of a positive fraction by a positive fraction, concretely or pictorially, and record the process.",
+      "Model division of a positive fraction by a whole number, concretely or pictorially, and record the process.",
+      "Generalize and apply rules for multiplying and dividing positive fractions, including mixed numbers.",
+      "Solve a problem involving positive fractions, taking into consideration order of operations (limited to problems with positive solutions)."
+    ],
+    "expectations": []
+  },
+  "8.N.7": {
+    "description": "Demonstrate an understanding of multiplication and division of integers, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Identify the operation(s) required to solve a problem involving integers.",
+      "Provide a context that requires multiplying two integers.",
+      "Provide a context that requires dividing two integers.",
+      "Model the process of multiplying two integers using concrete materials or pictorial representations, and record the process.",
+      "Model the process of dividing an integer by an integer using concrete materials or pictorial representations, and record the process.",
+      "Generalize and apply a rule for determining the sign of the product or quotient of integers.",
+      "Solve a problem involving integers, taking into consideration order of operations."
+    ],
+    "expectations": []
+  },
+  "8.N.8": {
+    "description": "Solve problems involving positive rational numbers.",
+    "achievementIndicators": [
+      "Identify the operation(s) required to solve a problem involving positive rational numbers.",
+      "Determine the reasonableness of an answer to a problem involving positive rational numbers.",
+      "Estimate the solution and solve a problem involving positive rational numbers.",
+      "Identify and correct errors in the solution to a problem involving positive rational numbers."
+    ],
+    "expectations": []
+  },
+  "8.PR.1": {
+    "description": "Graph and analyze two-variable linear relations.",
+    "achievementIndicators": [
+      "Determine the missing value in an ordered pair for an equation of a linear relation.",
+      "Create a table of values for the equation of a linear relation.",
+      "Construct a graph from the equation of a linear relation (limited to discrete data).",
+      "Describe the relationship between the variables of a graph."
+    ],
+    "expectations": []
+  },
+  "8.PR.2": {
+    "description": "Model and solve problems using linear equations of the form: ax = b, b, a \u2260 0, ax + b = c, + b = c, a \u2260 0, a(x + b) = c concretely, pictorially, and symbolically, where a, b, and c, are integers.",
+    "achievementIndicators": [
+      "Model a problem with a linear equation, and solve the equation using concrete models.",
+      "Verify the solution to a linear equation using a variety of methods, including concrete materials, diagrams, and substitution.",
+      "Draw a visual representation of the steps used to solve a linear equation, and record each step symbolically.",
+      "Solve a linear equation symbolically.",
+      "Identify and correct errors in an incorrect solution of a linear equation.",
+      "Solve a linear equation by applying the distributive property [e.g., 2(x + 3) = 5; 2x + 6 = 5; ...].",
+      "Solve a problem using a linear equation, and record the process."
+    ],
+    "expectations": []
+  },
+  "8.SS.1": {
+    "description": "Develop and apply the Pythagorean theorem to solve problems.",
+    "achievementIndicators": [
+      "Model and explain the Pythagorean theorem concretely, pictorially, or by using technology.",
+      "Explain, using examples, that the Pythagorean theorem applies only to right triangles.",
+      "Determine whether or not a triangle is a right triangle by applying the Pythagorean theorem.",
+      "Solve a problem that involves determining the measure of the third side of a right triangle, given the measures of the other two sides.",
+      "Solve a problem that involves Pythagorean triples (e.g., 3, 4, 5 or 5, 12, 13)."
+    ],
+    "expectations": []
+  },
+  "8.SS.2": {
+    "description": "Draw and construct nets for 3-D objects.",
+    "achievementIndicators": [
+      "Match a net to the 3-D object it represents.",
+      "Construct a 3-D object from a net.",
+      "Draw nets for a right circular cylinder, right rectangular prism, and right triangular prism, and verify by constructing the 3-D objects from the nets.",
+      "Predict 3-D objects that can be created from a net and verify the prediction."
+    ],
+    "expectations": []
+  },
+  "8.SS.3": {
+    "description": "Determine the surface area of right rectangular prisms, right triangular prisms, right cylinders to solve problems.",
+    "achievementIndicators": [
+      "Explain, using examples, the relationship between the area of 2-D shapes and the surface area of a 3-D object.",
+      "Identify all the faces of a prism, including right rectangular and right triangular prisms.",
+      "Describe and apply strategies for determining the surface area of a right rectangular or right triangular prism.",
+      "Describe and apply strategies for determining the surface area of a right cylinder.",
+      "Solve a problem involving surface area."
+    ],
+    "expectations": []
+  },
+  "8.SS.4": {
+    "description": "Develop and apply formulas for determining the volume of right prisms and right cylinders.",
+    "achievementIndicators": [
+      "Determine the volume of a right prism, given the area of the base.",
+      "Generalize and apply a rule for determining the volume of right cylinders.",
+      "Explain the relationship between the area of the base of a right 3-D object and the formula for the volume of the object.",
+      "Demonstrate that the orientation of a 3-D object does not affect its volume.",
+      "Apply a formula to solve a problem involving the volume of a right cylinder or a right prism."
+    ],
+    "expectations": []
+  },
+  "8.SS.5": {
+    "description": "Draw and interpret top, front, and side views of 3-D objects composed of right rectangular prisms.",
+    "achievementIndicators": [
+      "Draw and label the top, front, and side views for a 3-D object on isometric dot paper.",
+      "Compare different views of a 3-D object to the object.",
+      "Predict the top, front, and side views that will result from a described rotation (limited to multiples of 90\u00b0) and verify predictions.",
+      "Draw and label the top, front, and side views that result from a rotation (limited to multiples of 90\u00b0).",
+      "Build a 3-D block object, given the top, front, and side views, with or without the use of technology.",
+      "Sketch and label the top, front, and side views of a 3-D object in the environment, with or without the use of technology."
+    ],
+    "expectations": []
+  },
+  "8.SS.6": {
+    "description": "Demonstrate an understanding of tessellation.",
+    "achievementIndicators": [
+      "Identify in a set of regular polygons those shapes and combinations of shapes that will tessellate, and use angle measurements to justify choices.",
+      "Identify in a set of irregular polygons those shapes and combinations of shapes that will tessellate, and use angle measurements to justify choices.",
+      "Identify a translation, reflection, or rotation in a tessellation.",
+      "Identify a combination of transformations in a tessellation.",
+      "Create a tessellation using one or more 2-D shapes, and describe the tessellation in terms of transformations and conservation of area.",
+      "Create a new tessellating shape (polygon or non-polygon) by transforming a portion of a tessellating polygon, and describe the resulting tessellation in terms of transformations and conservation of area.",
+      "Identify and describe tessellations in the environment."
+    ],
+    "expectations": [
+      "explaining the properties of shapes that make tessellating possible",
+      "creating tessellations",
+      "identifying tessellations in the environment"
+    ]
+  },
+  "8.SP.1": {
+    "description": "Critique ways in which data are presented.",
+    "achievementIndicators": [
+      "Compare the information that is provided for the same data set by a set of graphs, such as circle graphs, bar graphs, line graphs, double bar graphs, or pictographs, to determine the strengths and limitations of each graph.",
+      "Identify the advantages and disadvantages of different graphs, such as circle graphs, line graphs, bar graphs, double bar graphs, or pictographs, in representing a specific set of data.",
+      "Justify the choice of a graphical representation for a situation and its corresponding data set.",
+      "Explain how a formatting choice, such as the size of the intervals, the width of bars, or the visual representation, may lead to misinterpretation of the data.",
+      "Identify conclusions that are inconsistent with a data set or graph, and explain the misinterpretation."
+    ],
+    "expectations": []
+  },
+  "8.SP.2": {
+    "description": "Solve problems involving the probability of independent events.",
+    "achievementIndicators": [
+      "Determine the probability of two independent events and verify the probability using a different strategy.",
+      "Generalize and apply a rule for determining the probability of independent events.",
+      "Solve a problem that involves determining the probability of independent events."
+    ],
+    "expectations": []
+  },
+  "9.N.1.": {
+    "description": "Demonstrate an understanding of powers with integral bases (excluding base 0) and whole-number exponents by",
+    "achievementIndicators": [
+      "Demonstrate the differences between the exponent and the base by building models of a power, such as 2\u00b3 and 3\u00b2.",
+      "Explain, using repeated multiplication, the difference between two powers in which the exponent and base are interchanged, such as 10\u00b3 and 3\u00b9\u2070.",
+      "Express a power as a repeated multiplication.",
+      "Express a repeated multiplication as a power.",
+      "Explain the role of parentheses in powers by evaluating a set of powers such as (-2)\u2074, (-2\u2074), and -2\u2074.",
+      "Demonstrate in a variety of ways that a\u2070 is equal to 1 for any value of a (a \u2260 0).",
+      "Evaluate powers with integral bases (excluding base 0) and whole-number exponents.",
+      "Determine the sum of two powers such as 5\u00b2 + 5\u00b3 or 3\u00b2 + 2\u00b3, and record the process.",
+      "Determine the difference of two powers such as 4\u00b3 \u2013 4\u00b2, and record the process."
+    ],
+    "expectations": [
+      "representing repeated multiplication using powers",
+      "using patterns to show that a power with an exponent of zero is equal to one",
+      "solving problems involving powers"
+    ]
+  },
+  "9.N.2.": {
+    "description": "Demonstrate an understanding of operations on powers with integral bases (excluding base 0) and whole-number exponents.",
+    "achievementIndicators": [
+      "Explain, using examples, the exponent laws of powers with integral bases (excluding base 0) and whole-number exponents:",
+      "(a^m)(a^n) = a^(m + n)",
+      "a^m / a^n = a^(m-n), m \u2265 n",
+      "(a^m)^n = a^(mn)",
+      "(ab)^m = a^m b^m",
+      "(a/b)^m = a^m / b^m, b \u2260 0",
+      "Evaluate an expression by applying the exponent laws.",
+      "Evaluate an expression where the exponent laws do not apply.",
+      "Identify the error(s) in a simplification of an expression involving powers."
+    ],
+    "expectations": []
+  },
+  "9.N.3.": {
+    "description": "Demonstrate an understanding of rational numbers by",
+    "achievementIndicators": [
+      "Order a set of rational numbers, in fraction or decimal form, by placing them on a vertical or horizontal number line e.g., 3/5, -0.666..., 0.5, 5/8.",
+      "Identify a rational number that is between two rational numbers.",
+      "Solve a problem involving operations on rational numbers in fraction form, decimal form, or a combination of rational forms."
+    ],
+    "expectations": [
+      "comparing and ordering rational numbers",
+      "solving problems that involve arithmetic operations on rational numbers"
+    ]
+  },
+  "9.N.4.": {
+    "description": "Explain and apply the order of operations, including exponents, with and without technology.",
+    "achievementIndicators": [
+      "Demonstrate and explain with examples the need for a standardized order of operations.",
+      "Solve a problem by applying the order of operations without the use of technology, and record the process.",
+      "Solve a problem by applying the order of operations with the use of technology, and record the process.",
+      "Identify the error in applying the order of operations in an incorrect solution."
+    ],
+    "expectations": []
+  },
+  "9.N.5.": {
+    "description": "Determine the square root of positive rational numbers that are perfect squares.",
+    "achievementIndicators": [
+      "Determine whether or not a rational number is a square number, and explain the reasoning.",
+      "Determine the square root of a positive rational number that is a perfect square.",
+      "Identify the error made in a calculation of a square root.",
+      "Determine a positive rational number given the square root of that positive rational number.",
+      "Explain with examples why a positive rational number has both a positive and a negative square root."
+    ],
+    "expectations": []
+  },
+  "9.N.6.": {
+    "description": "Determine an approximate square root of positive rational numbers that are non-perfect squares.",
+    "achievementIndicators": [
+      "Estimate the square root of a rational number that is not a perfect square, using the roots of perfect squares as benchmarks.",
+      "Determine an approximate square root of a rational number that is not a perfect square, using technology.",
+      "Explain why the square root of a rational number as shown on a calculator may be an approximation.",
+      "Identify a number with a square root that is between two numbers."
+    ],
+    "expectations": []
+  },
+  "9.PR.1.": {
+    "description": "Generalize a pattern arising from a problem-solving context using linear equations, and verify by substitution.",
+    "achievementIndicators": [
+      "Write an expression representing a pictorial, oral, or written pattern.",
+      "Write a linear equation to represent a context.",
+      "Create a context for a linear equation.",
+      "Solve, using a linear equation, a problem that involves pictorial, oral, or written linear patterns.",
+      "Write a linear equation representing the pattern in a table of values, and verify the equation by substituting values from the table."
+    ],
+    "expectations": []
+  },
+  "9.PR.2.": {
+    "description": "Graph linear relations, analyze the graph, and interpolate or extrapolate to solve problems.",
+    "achievementIndicators": [
+      "Describe a pattern found in a graph.",
+      "Graph a linear relation from a table of values or from a context",
+      "Match a contextual situation to a linear relation or graph.",
+      "Extend a graph (extrapolate) to determine the value of an unknown element.",
+      "Interpolate the approximate value of one variable on a graph given the value of the other variable.",
+      "Extrapolate the approximate value of one variable from a graph given the value of the other variable.",
+      "Solve a problem by graphing a linear relation and analyzing the graph."
+    ],
+    "expectations": []
+  },
+  "9.PR.3.": {
+    "description": "Model and solve problems using linear equations of the form",
+    "achievementIndicators": [
+      "Model the solution of a linear equation using concrete or pictorial representations, and record the process.",
+      "Model the use of preservation of equality when solving linear equations, concretely, pictorially, or symbolically.",
+      "Determine, by substitution, whether a rational number is a solution to a linear equation.",
+      "Develop a list of strategies for solving any linear equation.",
+      "Solve a linear equation symbolically.",
+      "Identify and correct an error in an incorrect solution of a linear equation.",
+      "Represent a problem using a linear equation.",
+      "Create a context for a linear equation.",
+      "Solve a problem using a linear equation, and record the process."
+    ],
+    "expectations": [
+      "ax = b",
+      "ax + b = c",
+      "ax = b + cx",
+      "a(x + b) = c",
+      "ax + b = cx + d",
+      "a(bx + c) = d(ex + f)",
+      "a/x = b, x \u2260 0",
+      "where a, b, c, d, e, and f are rational numbers."
+    ]
+  },
+  "9.PR.4.": {
+    "description": "Explain and illustrate strategies to solve single variable linear inequalities with rational coefficients within a problem-solving context.",
+    "achievementIndicators": [
+      "Translate a problem into a single variable linear inequality using the symbols >, \u2265, <, or \u2264.",
+      "Create a context for a linear inequality expressed graphically or symbolically.",
+      "Determine if a rational number is a possible solution of a linear inequality.",
+      "Generalize and apply a rule for adding or subtracting a positive or negative number to determine the solution of an inequality.",
+      "Generalize and apply a rule for multiplying or dividing by a positive or negative number to determine the solution of an inequality.",
+      "Solve a linear inequality algebraically, and explain the process orally or in written form.",
+      "Graph the solution of a linear inequality on a vertical or horizontal number line.",
+      "Compare and explain the process for solving a linear equation to the process for solving a linear inequality.",
+      "Compare and explain the solution of a linear equation to the solution of a linear inequality.",
+      "Verify the solution of a linear inequality using substitution for multiple elements in the solution.",
+      "Solve a problem involving a single variable linear inequality, and graph the solution."
+    ],
+    "expectations": []
+  },
+  "9.PR.5.": {
+    "description": "Demonstrate an understanding of polynomials (limited to polynomials of degree less than or equal to 2).",
+    "achievementIndicators": [
+      "Create a concrete model or a pictorial representation for a polynomial expression.",
+      "Write the expression for a model of a polynomial.",
+      "Identify the variables, exponent, number of terms, and coefficients, including the constant term, of a simplified polynomial expression.",
+      "Create a situation for a first-degree polynomial expression.",
+      "Match equivalent polynomial expressions in simplified form."
+    ],
+    "expectations": []
+  },
+  "9.PR.6.": {
+    "description": "Model, record, and explain the operations of addition and subtraction of polynomial expressions, concretely, pictorially, and symbolically (limited to polynomials of degree less than or equal to 2).",
+    "achievementIndicators": [
+      "Model addition of two polynomial expressions concretely or pictorially, and record the process symbolically.",
+      "Model subtraction of two polynomial expressions concretely or pictorially, and record the process symbolically.",
+      "Apply a personal strategy for addition and subtraction of polynomial expressions, and explain the process.",
+      "Identify equivalent polynomial expressions from a set of polynomial expressions, including pictorial and symbolic representations.",
+      "Identify the error(s) in a simplification of a polynomial expression."
+    ],
+    "expectations": []
+  },
+  "9.PR.7.": {
+    "description": "Model, record, and explain the operations of multiplication and division of polynomial expressions (limited to polynomials of degree less than or equal to 2) by monomials, concretely, pictorially, and symbolically.",
+    "achievementIndicators": [
+      "Model multiplication of a polynomial expression by a monomial, concretely or pictorially, and record the process symbolically.",
+      "Model division of a polynomial expression by a monomial, concretely or pictorially, and record the process symbolically.",
+      "Apply a personal strategy for multiplication and division of a polynomial expression by a monomial, and explain the process.",
+      "Provide examples of equivalent polynomial expressions.",
+      "Identify the error(s) in a simplification of a polynomial expression."
+    ],
+    "expectations": []
+  },
+  "9.SS.1.": {
+    "description": "Solve problems and justify the solution strategy using circle properties, including",
+    "achievementIndicators": [
+      "Provide an example that illustrates the perpendicular from the centre of a circle to a chord bisects the chord.",
+      "Provide an example that illustrates the measure of the central angle is equal to twice the measure of the inscribed angle subtended by the same arc.",
+      "Provide an example that illustrates the inscribed angles subtended by the same arc are congruent.",
+      "Provide an example that illustrates a tangent to a circle is perpendicular to the radius at the point of tangency.",
+      "Explore the reverse relationship of the above circle properties.",
+      "Solve a problem involving application of one or more of the circle properties.",
+      "Determine the measure of any inscribed angle subtended by the diameter using the circle properties.",
+      "Explain the relationship among the centre of a circle, a chord, and the perpendicular bisector of the chord."
+    ],
+    "expectations": [
+      "the perpendicular from the centre of a circle to a chord bisects the chord",
+      "the measure of the central angle is equal to twice the measure of the inscribed angle subtended by the same arc",
+      "the inscribed angles subtended by the same arc are congruent",
+      "a tangent to a circle is perpendicular to the radius at the point of tangency"
+    ]
+  },
+  "9.SS.2.": {
+    "description": "Determine the surface area of composite 3-D objects to solve problems.",
+    "achievementIndicators": [
+      "Determine the surface area of a concrete composite 3-D object.",
+      "Determine the area of overlap in a concrete composite 3-D object, and explain its effect on determining the surface area.",
+      "Solve a problem involving surface area."
+    ],
+    "expectations": []
+  },
+  "9.SS.3.": {
+    "description": "Demonstrate an understanding of similarity of polygons.",
+    "achievementIndicators": [
+      "Determine if the polygons in a pre-sorted set are similar, and explain the reasoning.",
+      "Draw a polygon similar to a given polygon, and explain why the two are similar.",
+      "Solve a problem using the properties of similar polygons."
+    ],
+    "expectations": []
+  },
+  "9.SS.4.": {
+    "description": "Draw and interpret scale diagrams of 2-D shapes.",
+    "achievementIndicators": [
+      "Identify an example in print and electronic media (e.g., newspapers, the Internet) of a scale diagram, and interpret the scale factor.",
+      "Draw a diagram to scale that represents an enlargement or reduction of a 2-D shape.",
+      "Determine the scale factor for a diagram drawn to scale.",
+      "Determine if a diagram is proportional to the original 2-D shape and, if it is, state the scale factor.",
+      "Solve a problem that involves a scale diagram by applying the properties of similar polygons."
+    ],
+    "expectations": []
+  },
+  "9.SS.5.": {
+    "description": "Demonstrate an understanding of line and rotation symmetry.",
+    "achievementIndicators": [
+      "Classify a set of 2-D shapes or designs according to the number of lines of symmetry.",
+      "Complete a 2-D shape or design given one-half of the shape or design and a line of symmetry.",
+      "Determine if a 2-D shape or design has rotation symmetry about the point at the centre of the shape or design and, if it does, state the order and angle of rotation.",
+      "Rotate a 2-D shape about a vertex and draw the resulting image.",
+      "Identify a line of symmetry or the order and angle of rotation symmetry in a tessellation.",
+      "Identify and describe the types of symmetry created in a piece of artwork.",
+      "Create or provide a piece of artwork that demonstrates line or rotation symmetry, and identify the line(s) of symmetry and the order and angle of rotation."
+    ],
+    "expectations": []
+  },
+  "9.SP.1.": {
+    "description": "Describe the effect of",
+    "achievementIndicators": [
+      "Analyze a case study of data collection, and identify potential problems related to bias, use of language, ethics, cost, privacy, or cultural sensitivity, time and timing.",
+      "Provide examples to illustrate how bias, use of language, ethics, cost, privacy, or cultural sensitivity, time and timing may influence the data."
+    ],
+    "expectations": [
+      "bias",
+      "use of language",
+      "ethics",
+      "cost",
+      "time and timing",
+      "privacy",
+      "cultural sensitivity"
+    ]
+  },
+  "9.SP.2.": {
+    "description": "Select and defend the choice of using either a population or a sample of a population to answer a question.",
+    "achievementIndicators": [
+      "Identify whether a situation represents the use of a sample or a population.",
+      "Provide an example of a situation in which a population may be used to answer a question, and justify the choice.",
+      "Provide an example of a question where a limitation precludes the use of a population, and describe the limitation (e.g., too costly, not enough time, limited resources).",
+      "Identify and critique an example in which a generalization from a sample of a population may or may not be valid for the population."
+    ],
+    "expectations": []
+  },
+  "9.SP.3.": {
+    "description": "Develop and implement a project plan for the collection, display, and analysis of data by",
+    "achievementIndicators": [
+      "Create a rubric to assess a project that includes the assessment of a question for investigation.",
+      "Create a rubric to assess a project that includes the assessment of the choice of a data collection method that includes social considerations.",
+      "Create a rubric to assess a project that includes the assessment of the selection of a population or a sample and justifying the choice.",
+      "Create a rubric to assess a project that includes the assessment of the display of the collected data.",
+      "Create a rubric to assess a project that includes the assessment of the conclusions to answer the question.",
+      "Develop a project plan that describes a question for investigation.",
+      "Develop a project plan that describes the method of data collection that includes social considerations.",
+      "Develop a project plan that describes the method for selecting a population or a sample.",
+      "Develop a project plan that describes the method to be used for collection of the data.",
+      "Develop a project plan that describes the methods for analysis and display of the data.",
+      "Complete the project according to the plan, draw conclusions, and communicate findings to an audience.",
+      "Self-assess the completed project by applying the rubric."
+    ],
+    "expectations": [
+      "formulating a question for investigation",
+      "choosing a data collection method that includes social considerations",
+      "selecting a population or a sample",
+      "collecting the data",
+      "displaying the collected data in an appropriate manner",
+      "drawing conclusions to answer the question"
+    ]
+  },
+  "9.SP.4.": {
+    "description": "Demonstrate an understanding of the role of probability in society.",
+    "achievementIndicators": [
+      "Provide an example from print and electronic media (e.g., newspapers, the Internet) where probability is used.",
+      "Identify the assumptions associated with a given probability, and explain the limitations of each assumption.",
+      "Explain how a single probability can be used to support opposing positions.",
+      "Explain, using examples, how decisions based on probability may be a combination of theoretical probability, experimental probability, and subjective judgment."
+    ],
+    "expectations": []
+  }
 }
